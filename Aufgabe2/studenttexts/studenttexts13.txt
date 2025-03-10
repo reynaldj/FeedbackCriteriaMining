@@ -1,0 +1,126 @@
+Teil 1) Ausgangsmaterial (Gruppe Andreea Vizitiu, Julia Levenson, Laura Pankrath, Veit Ritterbecks)
+
+Mathe, 2. Kl; Fachliche Lernziele:
+Zehnerzahlen vergleichen unter Verwendung der Begriffe “ist kleiner als”, “ist größer als” und “ist gleich”
+
+Richtige Verwendung der entsprechenden Relationszeichen
+
+Das Material wurde mit der Intention konzipiert, dass SuS es selbstständig (größtenteils) in Einzelarbeit durcharbeiten.
+
+Quelle: Einstern (Cornelsen) 2, S.8 https://www.cornelsen.de/produkte/einstern-themenhefte-1-5-und-kartonbeilagen-mit-schuber-band-2-9783060836840
+
+Teil 2) Bedarfsanalyse
+
+1. Operatoren/Diskursfunktionen
+Es sind keine Operatoren und keine W-Fragen, sondern reine Handlungsanweisungen vorhanden (“setze ein”, “ordne nach” usw.)
+Es sind keine Diskursfunktionen enthalten, da nicht explizit benannt wird, dass sie Zahlen/ Zahlenmengen vergleichen und sich ggf. darüber austauschen müssen.
+
+2. Sprachliche Interaktion 
+Drei von vier Aufgaben sind als Einzelarbeit gedacht. Als kooperative Sozialform wird Partnerarbeit nur bei Aufgabe 1 vorgesehen. Hier wird die sprachliche Interaktion jedoch nicht explizit benannt, sondern die SuS werden lediglich aufgefordert, abwechselnd Zahlen und passende Zahlen zu legen. Das notwendige Material ist in der Zeichnung dargestellt, aber nicht schriftlich aufgeführt. In der Sprechblase der Zeichnung ist ein Beispiel für erwünschte Schüler*innenäußerungen zu sehen (Es kann nicht davon ausgegangen werden, dass die enaktive Handlung automatisch versprachlicht wird). Als einzige sprachliche Unterstützung für diese Aufgabe wird der Begriff „ist größer als“ in der Sprechblase angeboten (eine Aufforderung, das Bild zu betrachten, fehlt allerdings). Dabei fehlen die möglichen Aussagen mit den Fachbegriffen „ist kleiner als“ und „ist gleich“. Bei keiner Aufgabe wird Vorwissen aktiviert, die SuS beschaffen Information nur aus den jeweiligen Arbeitsanweisungen und den Beispiellösungen, die optisch blau hervorgehoben sind. Das Lernziel ist für die Schüler*innen nicht explizit versprachlicht/benannt.
+Wird Wissen vernetzt? Bei Aufgabe 2 werden verschiedene Zahlendarstellungen vernetzt: von der ikonischen Darstellung (Striche), hin zur symbolischen Darstellung (Zahlzeichen) und weiter zur schriftsprachlichen Darstellungen (Zahlwort).
+Ergebnispräsentation und Metakommunikation sind nicht vorhanden.
+
+3.Sprachliche Mittel (Rezeptiv) 
+Textsorte: Diskontinuierlicher Text (Handlungsanweisungen).
+Benötigtes (sprachliches) Vorwissen: Die SuS müssen neben dem fachlichen Vorwissen auch damit vertraut sein, Aufgaben selbstständig zu bearbeiten und dafür Strategien zur Verfügung zu haben. Diese komplexe Abläufe müssen bereits eingeübt sein →z.B. Handlungsanweisung lesen, Abbildungen betrachten, Sinn erschließen, Unklarheiten formulieren und bennen sowie Fragen stellen…)
+
+Bilder/Grafiken: Die SuS müssen mit den oben genannten Zahlendarstellungen vertraut sein. Auch die Abbildungen müssen von den SuS im Kontext der Handlungsanweisung gedeutet werden. 
+
+Textebene: Die Handlungsanweisungen sind kurz gehalten. Auf der Satzebene werden ausschließlich Hauptsätze verwendet. Jedoch ist die Handlungsanweisung von 4)  “Ordne die Zehnerzahlen der Größe nach.” komplex, denn sie enthält eine Postposition, die nach ihrem regierenden Dativ-Bezugswort steht. Die Wortebene enthält zwei Fachbegriffe, nämlich “Zehnerzahlen” und “Größe”. Herausfordernd für einige SuS können das Partikelverb “setze ein” und das Partizip I “abwechselnd” (Adverb) und “passend” (Adjektiv) sein. 
+
+4.Sprachliche Mittel (produktiv)
+Lernzielbestimmung: Die SuS vergleichen und ordnen Zehnerzahlen und können unter Verwendung von Fachsprache ihr Vorgehen beschreiben.  
+
+Fachlich: Mengenverständnis und Größenvergleich. Korrekte Verwendung der mathematischen Symbole (Relationszeichen). 
+
+Mündlicher Beitrag: Bei der Aufgabe 1) ist das Lernziel der Austausch über Mengen, indem die SuS Fachbegriffe (Bildungssprache) verwenden: Benennen was “größer” / “kleiner”/ “gleich” ist. 
+
+Schriftlicher Beitrag: Bei den Aufgaben 2)-4) ist das Lernziel die Übersetzung von Mengenvergleichen auf symbolischer Ebene.
+
+Sozialform:  Partnerarbreit / Gruppenarbeit (in Abhängigkeit, womit die Lerngruppe vertraut ist)
+
+Materialien: Zahlenkarten, Relationszeichen, Zehnerstäbe, Wortkarten (“ist größer als” / “ist kleiner als” / “ist gleich”)
+
+Sprachliches Produkt:
+Bei der  Aufgabe 1) werden von den SuS Aussagen wie “[Zehnerzahl] ist größer als [oder kleiner als/ gleich] [Zehnerzahl]” erwartet.
+Bei den Aufgaben 2)-4) wird SuS werden von den SuS Symbole (>,<,=) und Zahlzeichen erwartet (nicht sprachgebunden. Bei 2) g-i werden die Zahlworte vorausgesetzt.
+
+
+5.Sprachliche Aktivitäten insgesamt:
+
+Lesen (von zusammenhängenden Texten) → Die SuS lesen die Handlungsanweisungen und müssen sie mit den Darstellungen in Verbindung bringen und sich den Sinn erschließen
+
+Sprechen (zusammenhängend und fachlich) →höchstens bei Aufgabe 1
+
+Es ist keine Reflexion vorgesehen (weder über die Seite selbst, noch die sprachliche Umsetzung aus Aufgabe 1
+
+Teil 3) Erläuterung: Wie gehen wir mit diesen sprachlichen Schwerpunkten im Unterricht um (konkret)?
+Fachliches/Sprachliches Lernziel von Einstern: Zehnerzahlen vergleichen unter Verwendung der Begriffe “ist kleiner als”, “ist größer als” und “ist gleich”
+
+Richtige Verwendung der entsprechenden Relationszeichen Sprachliches Lernziel ( → wie erreichen wir das?): Austausch über Mengen unter Verwendung Begriffe 
+
+Lernziel: Kinder verwenden im Gespräch über Mengen miteinander die Relationsangaben “größer als”, “kleiner als”, “gleich wie”
+
+Mögliches Produkt: Eigenes Merkblatt/Wortspeicher zum Abheften in 
+
+Zentral für unsere Unterrichtsgestaltung ist die Erhöhung des Redeanteils der Kinder. Die erste Aufgabe ist prinzipiell gut für den Austausch über die fachlichen Inhalte geeignet. Bei unserer Unterrichtsplanung stellen wir diese konkrete Aufgabe allerdings weiter nach hinten, weil sie erstens ein hohes Maß an Selbstständigkeit und zweitens eine fortgeschrittene Kompetenz im Umgang mit der Fachsprache verlangt. 
+
+(1) Unsere Planung sieht vor, das Konzept des Mengenvergleichs mit dem zugehörigen Vokabular (“größer als”, “kleiner als”, “gleich”) zunächst enaktiv einzuführen. Dazu gehen wir von nicht zählbaren Mengen aus (zwei unterschiedlich große Haufen Reis, alternativ Zucker/Mehl). Die nicht zählbaren Mengen erleichtern die Konzentration auf den Vergleich, ohne direkt eine konkrete Zahl angeben zu müssen.  In dieser Phase erwarten wir von den Kindern Begriffe wie “mehr als”/ ”weniger als”/ ”gleich viel” zu hören. Der Reis (o.ä.) veranschaulicht besonders eindrücklich die korrekten Fachbegriffe (“der linke Haufen ist größer als der rechte”). So erarbeiten wir mit den Kindern die Begriffe “größer als”, “kleiner als” und “gleich” sowie die zugehörigen Symbole “>”, “<”, “=”. 
+
+Zur Sicherung und als Referenz für die weiteren Arbeitsphasen erstellen wir im Plenum mit vorbereiteten Fotos der Reishaufen, den Symbolen und den Fachbegriffen ein Plakat zum Aushang in der Klasse (Funktion: Wortspeicher). Möglich ist auch, dass die Kinder in Partner- oder Gruppenarbeit ihre eigenen Merkblätter zum Einheften in den Matheordner erstellen.
+
+Satzanfänge für das Plakat: “Der linke [Foto vom größeren Reishaufen] ist größer als der [Bild vom kleineren Reishaufen]”, “Der linke [Foto vom kleineren Reishaufen] ist kleiner als den [Foto vom größeren Reishaufen]”
+
+(2) In einem zweiten Schritt übertragen wir das Konzept auf abzählbare Mengen (z.B. Steckwürfel). In Partnerarbeit sollen die Kinder einander abzählbare Mengen nennen und entsprechende Türme aus Steckwürfeln bauen. Das jeweils andere Kind versprachlicht deren Verhältnis dann nach dem Muster “ein Turm aus x Steckwürfeln ist größer als einer aus y Steckwürfeln”. Zur Unterstützung sind Karten mit den entsprechenden Satzgerüsten vorhanden.
+
+Als sprachliche Unterstützung kann ein weiteres Plakat an die Tafel aufgehängt werden, etwa in der Art:
+
+bndxS6PY4CIziS9r6CoOVoclTAotniW7gG9YI259yeAuZ89RrJmImmcmBKhgOG31KhtmZd-bYV0nWb8Xq_dTOQU3isaPer-KSKxBc8wLE0OZzgmLvkzCM1I-RH70VihsG6CHdPJrYGu6NNRhJLR2tWE
+
+(3) Erst in einem dritten Schritt wird der Wechsel hin zur ikonischen Darstellung vollzogen. Die Steckwürfel werden durch das im Buch dargestellte Material (Zahlenkärtchen) ersetzt. Statt das Spiel in Partnerarbeit durchzuführen, wird jedem Kind eine laminierte Karte mit einem Symbol oder einer Zahl ausgeteilt; die Kinder stellen sich dann zu passenden (Un-)Gleichungen auf. 
+
+
+Welche Hilfsangebote würden Sie bereitstellen? 
+
+Enaktiv
+
+Mengen darstellen mit Dienes Material, Steckwürfel o.Ä. zum Türme bauen (alternativ: Stifte)
+
+Reiskörner, Nudeln o.Ä. zum Mengenvergleich
+
+Ikonisch 
+Unterstützendes Lernplakat zur Bildungssprache mit Bildern (z.B. von den Reis-Mengen, Steckwürfel-Mengen o.Ä.), sowie den Aussagen “größer als” “>”,  “kleiner als”, “<” , “gleich” “=” und Beispiel Gleichungen.
+
+
+Scaffolds
+
+Beispielaufgaben mit richtigem Ergebnis zeigen und mögliche versprachlichung
+
+Erst Austausch in der Gruppe (Was ist eine Menge? Habt ihr schonmal die Anzahl von Dingen verglichen?) →Sprachbad: von der Alltags zur Bildungs- und Fachsprache 
+
+Satzanfänge….(konkret s.O.)
+
+Wortspeicher (Zehnerzahl, Zahlwort, Menge, Symbol): Die Zahl … ist größer als die Zahl …, Die Zahl … ist kleiner als die Zahl …,  die Zehnerzahlen sind: 10, 20, 30, 40 …, 100.
+
+Welche Zusatzmaterialien wären denkbar?
+
+
+→ Mathematerialien, z.B. Zehner- Zahlenstrahl etc.
+
+21ykkJb6g4-uekMhhtyXXJ3qisdeh00axC5m4As41H5PSFD3OLVYbMWgWgxgBkoXEEFf1OaeRWbSu3-vfqW9sQ0dIqYHU7iX-OyFKrPD9VMWTDhVl6BkFNyhPLLaPydpcMfcCQZ9J1amjIWBXvgFooo
+
+
+Welche innovativen und/oder spielerischen Methoden wären möglich?
+
+
+Spielerische Annäherung an den Lerngegenstand: LK beschriftet laminierte Karten mit verschiedenen Zahlen und Zeichen ( >, <, =) und verteilt eine Karte pro Kind. Diese finden sich dann in 3er Gruppen zu Gleichungen zusammen, stellen sich einander vor und versprachlichen die Gleichung (“Ich bin die Zehnerzahl 10” / “Ich bin 30”/ “Ich bin größer als” / SuS stellen sich entsprechend der Reihenfolge auf “30 ist größer als 10”). Im Anschluss können im Plenum 3 Beispiel Gleichungen neu zusammengewürfelt werden als Ergebnissicherung, oder 3 Gruppen stellen sich vor.
+
+Würfelspiel: Zwei Kinder spielen gegeneinander. Der Spielplan hat auf jeder Seite ein Zwanzigerfeld. Ein Kind würfelt und legt eine entsprechende Anzahl Rechenchips (rot/blau) auf das eigene Feld. Dann sagt es laut einen Satz zum Verhältnis der eigenen Menge zu der des anderen Kindes. Beispiel: Das erste Kind würfelt eine 4. Es sagt “4 ist größer als 0”. Das andere Kind ist dann an der Reihe. Würfelt es z.B. eine 2, sagt es “2 ist kleiner als 4”. Die nachfolgend gewürfelten Zahlen werden zu den vorherigen Würfen addiert, nach jedem Wurf werden die neuen Mengen verglichen und ein entsprechender Satz formuliert. Das Kind, das das Zwanzigerfeld als erstes gefüllt hat, gewinnt.
+
+In welcher Form könnte eine Präsentation der Ergebnisse erfolgen? (Bedarfsanalyse oder eher 3 → Planung)
+
+In welcher Form könnte Feedback erfolgen? 
+Zur Mathematische Ebene: Prompting durch die LK oder Peers (Aufforderung zur Selbstkorrektur durch Elizitierung/Mimik, Gestik): “50 ist größer als 40?”. Auch anhand von Materialien (Zahlenstrahl, Zehnerstäbchen, etc.)
+Sprachliche Ebene: Recast durch die LK oder Peers (diverse, bzw. flexibel): bei falscher Registerwahl (“ist mehr als” mit “stimmt, 50 ist größer als 40” / korrigierendes Wiederholen
+
+Herzliche Grüße 

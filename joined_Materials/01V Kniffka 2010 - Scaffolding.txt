@@ -1,0 +1,134 @@
+Scaffolding
+Der Begriff des Scaffolding, engl. "Baugerüst", wird in der sprachwissenschaftlichen bzw.
+erziehungswissenschaftlichen Literatur nicht einheitlich verwendet.
+In der Erstspracherwerbsforschung (vgl. Wood, Bruner & Ross 1976) werden damit (sprachliche)
+Unterstützungshandlungen bezeichnet, die Erwachsene in der Interaktion mit einem Kleinkind
+einsetzen. Das Bild des Baugerüstes impliziert eine vorübergehende Hilfestellung: Wenn das Kind in
+der Lage ist, eine (sprachliche) Handlung selbstständig auszuführen, wird das stützende Gerüst
+entfernt. Grundlage zu Bruners Konzept des "Scaffolding" bildet Wygotskis Theorie von der "Zone
+der proximalen Entwicklung": Ein kompetenterer Partner (z. B. die Mutter, die Erzieherin) kann dem
+weniger kompetenten Partner (Kind) durch Interaktion helfen, seine kognitiven und sprachlichen
+Fähigkeiten auszubauen.
+Im Kontext von Zweitspracherwerb wird die Metapher des Scaffolding, u. a. von Gibbons 2002,
+verwendet, um ein Unterstützungssystem im (sprachsensiblen) Fachunterricht zu bezeichnen.
+"This sociocultural approach to learning recognizes that with assistance, learners can reach beyond
+what they can do unaided, participate in new situations, and take on new roles. […] This assisted
+performance is encapsulated in Vygotsky's notion of the zone of proximal development, or ZPD,
+which describes the 'gap' between what learners can do alone and what they can do with help from
+someone more skilled. This situated help is often known as 'scaffolding'". (Gibbons 2009, 15).
+Mithilfe von Scaffolding sollen Schülerinnen und Schüler, deren Muttersprache eine von der
+Unterrichtssprache verschiedene ist, darin unterstützt werden, sich neue Inhalte, Konzepte und
+Fähigkeiten zu erschließen, sprachlich und fachlich. Lernende sollen also dazu gebracht werden,
+anspruchsvollere Aufgaben zu lösen als solche, die sie allein bewältigen könnten.
+Dies setzt voraus, dass Lehrerinnen und Lehrer das sprachliche und fachliche Potential ihrer
+Schülerinnen und Schüler einschätzen können. Konkret bedeutet dies, dass Schülerinnen und Schüler
+mit sprachlichen und fachlichen Anforderungen konfrontiert werden, die vom Schwierigkeitsgrad her
+ein wenig über dem bereits erreichten Kompetenzniveau angesiedelt sind. Scaffolding bedeutet dann,
+dass die Lücke, die zwischen dem, was ein/e Lerner/in bereits kann, und dem, was mit Unterstützung
+möglich ist, durch eine entsprechende Unterrichtsplanung und Unterrichtsinteraktion überbrückt wird.
+2
+Makro- und Mikro-Scaffolding
+Scaffolding nach Gibbons 2002 setzt sich aus vier "Bausteinen" zusammen: (1) Bedarfsanalyse, (2)
+Lernstandsanalyse, (3) Unterrichtsplanung, (4) Unterrichtsinteraktion. Die ersten drei "Bausteine"
+werden von Gibbons als "Makro-Scaffolding" bezeichnet, Baustein (4) als Mikro-Scaffolding.
+Bedarfsanalyse
+Vor einer konkreten Unterrichtsplanung erfolgt zunächst eine "Bedarfsanalyse". Das bedeutet, dass der
+Sprachbedarf für einen Unterrichtsinhalt aus fachlicher Sicht zu ermitteln ist. Bei einer Bedarfsanalyse
+kann beispielsweise wie folgt vorgegangen werden: Eine Unterrichtsreihe aus einem Lehrbuch wird
+auf ihre sprachlichen Anforderungen hin analysiert. So kann man u. a. ermitteln, was für Textarten
+vorkommen, welche Texte gelesen, was für Texte geschrieben werden müssen. Wird eine neue Textart
+eingeführt? Enthalten die zu lesenden Texte besondere Schwierigkeiten, etwa komplexe
+Verweisstrukturen, neue Fachtermini? Gibt es bestimmte grammatische Phänomene, die gehäuft
+auftreten? Usw.
+Schaut man sich das Kapitel "Sich orientieren" im Geographie-Lehrbuch Terra für das 5./6. Schuljahr
+an, so findet man dort kontinuierliche und nicht-kontinuierliche Texte, die entschlüsselt werden sollen
+(rezeptive Ebene). Auf produktiver Ebene sind die Schülerinnen und Schüler u. a. gefordert, eine
+Wegbeschreibung zu verfassen. Auf syntaktischer Ebene finden sich beispielsweise
+Topikalisierungen, uneingeleitete Konditionalsätze, Ellipsen, je ... desto-Konstruktionen mit
+Komparativformen. Der folgende Abschnitt illustriert einige dieser Erscheinungen:
+[...] Malt man die Flächen zwischen zwei Höhenlinien farbig aus, so entsteht eine HöhenschichtenKarte. Meist verwendet man grüne Farbe für niedrig gelegenes, gelbe bis braune Farbe für höher
+gelegenes Gelände, blaue Farben für Tiefen unter dem Meeresspiegel. Je höher, desto dunkler braun,
+je niedriger, desto dunkler grün, je tiefer unter dem Meeresspiegel, desto dunkler blau ist die Farbe.
+(Terra 5/6, 37)
+Da uneingeleitete Konditionalsätze und je ... desto-Konstruktionen im gesamten Teilkapitel immer
+wieder vorkommen und im übrigen für das Textverständnis notwendigerweise verstanden sein
+müssen, wird die Lehrkraft sich entschließen, diese sprachlichen Phänomene im Fachunterricht zu
+thematisieren und dazu geeignete sprachliche Übungen konzipieren.
+Lernstandserfassung
+Komplementär zur Bedarfsanalyse wird der Sprachstand der Klasse oder individueller Lerner erhoben
+und mit den sprachlichen Anforderungen verglichen. Beherrschen die Lernenden die geforderten
+Strukturen? Brauchen die Schülerinnen und Schüler noch Unterstützung? Gegebenenfalls hält der
+Fachlehrer bezüglich der Sprachstandserfassung Rücksprache mit den Kolleg/innen, die ebenfalls in
+dieser Klasse unterrichten, um eine breitere Entscheidungsgrundlage für seine Unterrichtsplanung zu
+erhalten.
+Unterrichtsplanung
+Bedarfsanalyse und Lernerdaten bilden den Ausgangspunkt für die Planung des Fachunterrichts. Dabei
+werden fachliche und sprachliche Aspekte miteinander verknüpft. Die Unterrichtsplanung basiert u. a.
+auf den folgenden Prinzipien (vgl. Gibbons 2002):
+3
+a) Einbeziehung des Vorwissens, der Vorerfahrung und des aktuellen Sprachstands der Schülerinnen
+und Schüler
+b) Auswahl von geeignetem (Zusatz-)Material in Abhängigkeit vom Kenntnis- und Sprachstand der
+Schülerinnen und Schüler. Gegebenenfalls ist es notwendig, konkretes Anschauungsmaterial
+einzusetzen oder die Schülerinnen und Schüler zunächst selbst Experimente durchführen zu lassen, um
+sie auf den Unterrichtsgegenstand hinzuführen.
+c) Sequenzierung der Lernaufgaben. Man kann die Lernaufgaben beispielsweise von der konkreten
+Anschauung hin zu einer abstrakteren Ebene anlegen, vom eher alltagssprachlichen,
+kontextgebundenen Sprachgebrauch hin zu einem kontextreduzierten, expliziteren Sprachgebrauch
+fortschreiten.
+d) Festlegung von Lern- und Arbeitsformen, etwa Kleingruppenarbeit, in denen die Schülerinnen und
+Schüler gefordert sind, miteinander zu interagieren und dabei sprachlich zu handeln, Informationen
+auszutauschen und über Inhalte zu verhandeln.
+e) Auswahl verschiedener Darstellungsformen, durch die die (neuen) Inhalte präsentiert werden sollen.
+Diese sollten möglichst dem Sprachstand der Lernenden entsprechen bzw. leicht darüber liegen.
+f) Einsatz von vermittelnden Texten (Brückentexte). Dies ist u. U. erforderlich, wenn die Texte im
+Schulbuch zu weit über dem Kompetenzniveau der Schülerinnen und Schüler liegen – und damit
+jenseits der "Zone der proximalen Entwicklung".
+g) Einsatz von "reichem Input", d. h. sprachlichem Input, der über dem sprachlichen Kompetenzniveau
+der Schülerinnen und Schüler liegt. Nur so ist eine Erweiterung der Sprachkompetenz initiierbar.
+h) Planung von metasprachlichen und metakognitiven Phasen – verschiedene Studien (z.B. die DESIStudie 2006) zeigen, dass metasprachliche/metakognitive Reflexion den Lernfortschritt fördern kann.
+Alle diese Gesichtspunkte machen zusammen das so genannte Makro-Scaffolding aus.
+Unterrichtsinteraktion – Mikro-Scaffolding
+Von zentraler Relevanz ist die Unterrichtsinteraktion, das "Mikro-Scaffolding". Gibbons fordert hier
+eine andere Qualität der Lehrer-Schüler-Interaktion, eine Unterrichtsinteraktion, die nicht nur aus dem
+bekannten Frage-Antwort-Schema (fragend-entwickelnder Unterricht) besteht (vgl. dazu auch Klieme
+et al. 2006, Helmke 2006). Eine solche Unterrichtsinteraktion könnte nach Gibbons 2002 nach den
+folgenden Prinzipien geführt werden:
+a) Verlangsamung der Lehrer-Schüler-Interaktion: Lehrende sollten versuchen, langsamer zu
+sprechen, da Zweitsprachlernende mehr Zeit brauchen, um sprachliche Äußerungen der Lehrerperson
+zu verarbeiten.
+b) Gewährung von mehr Planungszeit für Schülerinnen und Schüler: Auch die Planung von
+Äußerungen erfordert bei Zweitsprachlernenden mehr Zeit. Lehrerinnen und Lehrer sind gelegentlich
+etwas zu ungeduldig und gewähren Schülerinnen und Schülern nur ca. 2-3 Sekunden zum Antworten.
+c) Variation der Interaktionsmuster: Vor allem der gängige Ablauf "Lehrerfrage – Schülerantwort –
+Lehrerkommentar" sollte variiert werden. Optimal wäre die Schaffung authentischer
+Kommunikationssituationen, in denen eine Lehrkraft "echte" Fragen stellt, deren Beantwortung seitens
+4
+der Schülerinnen und Schüler die Planung komplexerer Äußerungen (statt einer Ein-Wort-Antwort)
+erfordert.
+d) Aktives Zuhören durch die Lehrkraft: Lehrerinnen und Lehrer sollten den Schülerinnen und
+Schülern aktiv zuhören, den intendierten Inhalt nachvollziehen und entsprechend (authentisch)
+reagieren. Dies fördert u. U. die Motivation der Schülerinnen und Schüler, sich im Unterricht zu
+äußern.
+e) Re-Kodierung von Schüleräußerungen durch die Lehrkraft: Re-Kodierung kann dazu beitragen,
+dass den Lernenden das angemessene Fachwort / eine angemessene Wendung im jeweiligen Kontext
+deutlich wird.
+f) Einbettung von Schüleräußerungen in größere konzeptuelle Zusammenhänge: So kann eine
+Beziehung zwischen der Schüleräußerung und dem fachlich-thematischen Gesamtkontext hergestellt
+werden.
+Resümee
+Bei dem Scaffolding-Ansatz, der hier grob skizziert wurde, vertreten und erarbeitet von Gibbons und
+anderen, handelt es sich um ein hochkomplexes Modell, das auf etablierten Sprach- und Lerntheorien
+beruht. Es setzt sich zusammen aus geplanten und interaktionalen Merkmalen, die in bestimmter
+Weise zusammenwirken: Makro-Scaffolding schafft den Rahmen für Mikro-Scaffolding.
+Scaffolding bedeutet nicht einfach, dass Schülerinnen und Schüler ein Arbeitsblatt mit Lernhilfen
+erhalten, vielmehr geht es darum, ihnen einen "intellektuellen Schub" zu geben, der ihnen erlaubt, weit
+in die Zone der proximalen Entwicklung (ZPD) vorzudringen.
+„In our view, scaffolding, unlike good teaching generally, is specific help that provides the intellectual
+‘push’ to enable students to work at ’the outer limits of the ZPD‘.” (Hammond & Gibbons 2005, 25).
+Scaffolding, das zeigen empirische Untersuchungen (vgl. Hammond & Gibbons 2005), kann
+Schülerinnen und Schüler sehr effektiv unterstützen. Dazu bedarf es ausgebildeter (Fach-)Lehrer, die
+einen solchen sprachsensiblen, die Sprachkompetenz erweiternden Fachunterricht zu planen und
+durchzuführen vermögen. Ein Unterricht, in dem Scaffolding eingesetzt wird, ist notwendigerweise
+zeitaufwendiger als ein "normaler" Fachunterricht. Es wird daher letztlich auch zu fragen sein, ob
+nicht Unterrichtsinhalte zugunsten des Scaffolding-Modells gestrafft werden müssen.

@@ -1,0 +1,1 @@
+{"best params": {"c2": 0.06861787758328954, "calibration_candidates": 20, "calibration_eta": 1.2763281950787428, "calibration_max_trials": 10, "calibration_rate": 0.7820663337722502, "calibration_samples": 2000, "delta": 4.5841630720702e-06}, "best CV score": 0.41408882013362575, "model size": 1.3559}

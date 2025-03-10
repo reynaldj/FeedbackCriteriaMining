@@ -1,0 +1,193 @@
+hierbei O
+handeln O
+es O
+sich O
+um O
+ein O
+Teilschritt O
+der O
+Map O
+( O
+= O
+1 O
+. O
+
+Bedarfsanalyse O
+) Feedback_Criteria
+! O
+
+erstellen O
+sie O
+anschließend O
+ihr O
+Analyse O
+mithelfen O
+der O
+in O
+Block O
+3 O
+vorgestellt O
+Instrument O
+
+fügen O
+sie O
+ihr O
+Analyse O
+hier O
+als O
+rein O
+Text O
+in O
+Eingabefeld O
+
+es O
+einreichen O
+, O
+wenn Feedback_Criteria
+ein O
+Person O
+der O
+Analyse O
+hochladen O
+
+Übergang O
+von O
+Alltag O
+zu O
+Bildungssprache O
+: O
+Artikel Feedback_Criteria
+fehlen O
+in O
+der O
+vorgegeben O
+Aufzählung Feedback_Criteria
+
+nicht O
+als O
+Grammatikwissen O
+verpacken O
+, O
+sondern O
+Artikel O
+einfach O
+bei Feedback_Criteria
+der Feedback_Criteria
+Bildbeschriftung O
+
+möglich O
+Unterstützung O
+und Feedback_Criteria
+Hilfe O
+zu O
+Bearbeiten O
+der O
+Aufgabenstellung O
+: O
+evtl Feedback_Criteria
+
+benötigt O
+Vorwissen O
+( Feedback_Criteria
+zu O
+Sachtexte O
+) O
+: O
+Aufbau O
+von O
+Komposita O
+-- O
+
+B O
+. O
+
+„ O
+Milchkuh O
+“ O
+, O
+„ O
+Großanlage O
+“ O
+, O
+„ O
+Kraftfutter O
+
+ja Feedback_Criteria
+in O
+Sachunterricht O
+und O
+nicht O
+in O
+Deutschunterricht O
+, O
+in O
+Idealfall O
+sein Feedback_Criteria
+natürlich O
+
+Unterstützung O
+der O
+sprachlich O
+Produktion O
+: O
+was O
+genau O
+sein O
+auf O
+der O
+Bild O
+zu O
+
+B. O
+der O
+abgebildet O
+Lebensmittel O
+als O
+Realien O
+mitbringen O
+, O
+auf O
+Tisch O
+verteilen O
+und O
+der Feedback_Criteria
+
+Lehrwerk O
+als O
+`` O
+Musterlösung O
+`` O
+einbringen O
+und O
+Ggf O
+. O
+mit O
+eigen O
+Formulierung O
+
+= O
+= O
+= O
+= O
+= O
+Teacher_feedback O
+= Feedback_Criteria
+= O
+= O
+= O
+= O
+
+für O
+der O
+Text O
+und O
+Leseverständnis O
+sollen O
+Textform O
+wie Feedback_Criteria
+Sachtexte O
+bekennen Feedback_Criteria
+
+= O
+= O
+

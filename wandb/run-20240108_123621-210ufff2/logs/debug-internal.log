@@ -1,0 +1,267 @@
+2024-01-08 12:36:23,646 INFO    MainThread:18200 [internal.py:wandb_internal():90] W&B internal server running at pid: 18200, started at: 2024-01-08 12:36:23.646879
+2024-01-08 12:36:23,655 INFO    WriterThread:18200 [datastore.py:open_for_write():75] open: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\run-210ufff2.wandb
+2024-01-08 12:36:23,656 DEBUG   SenderThread:18200 [sender.py:send():236] send: header
+2024-01-08 12:36:23,656 DEBUG   SenderThread:18200 [sender.py:send():236] send: run
+2024-01-08 12:36:23,947 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: check_version
+2024-01-08 12:36:23,966 INFO    SenderThread:18200 [dir_watcher.py:__init__():216] watching files in: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files
+2024-01-08 12:36:23,969 INFO    SenderThread:18200 [sender.py:_start_run_threads():815] run started: 210ufff2 with start time 1704713782
+2024-01-08 12:36:23,969 DEBUG   SenderThread:18200 [sender.py:send():236] send: summary
+2024-01-08 12:36:23,970 INFO    SenderThread:18200 [sender.py:_save_file():952] saving file wandb-summary.json with policy end
+2024-01-08 12:36:23,971 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: check_version
+2024-01-08 12:36:24,124 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: run_start
+2024-01-08 12:36:24,947 DEBUG   HandlerThread:18200 [meta.py:__init__():35] meta init
+2024-01-08 12:36:24,947 DEBUG   HandlerThread:18200 [meta.py:__init__():49] meta init done
+2024-01-08 12:36:24,947 DEBUG   HandlerThread:18200 [meta.py:probe():209] probe
+2024-01-08 12:36:24,963 DEBUG   HandlerThread:18200 [meta.py:_setup_git():199] setup git
+2024-01-08 12:36:25,003 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_created():269] file/dir created: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\wandb-summary.json
+2024-01-08 12:36:25,048 DEBUG   HandlerThread:18200 [meta.py:_setup_git():206] setup git done
+2024-01-08 12:36:25,048 DEBUG   HandlerThread:18200 [meta.py:_save_pip():53] save pip
+2024-01-08 12:36:25,052 DEBUG   HandlerThread:18200 [meta.py:_save_pip():67] save pip done
+2024-01-08 12:36:25,052 DEBUG   HandlerThread:18200 [meta.py:_save_conda():74] save conda
+2024-01-08 12:36:25,056 ERROR   HandlerThread:18200 [meta.py:_save_conda():83] Error saving conda packages
+Traceback (most recent call last):
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\wandb\sdk\internal\meta.py", line 79, in _save_conda
+    subprocess.call(
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\subprocess.py", line 349, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\Microsoft\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 853, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-01-08 12:36:25,056 DEBUG   HandlerThread:18200 [meta.py:_save_conda():84] save conda done
+2024-01-08 12:36:25,056 DEBUG   HandlerThread:18200 [meta.py:probe():247] probe done
+2024-01-08 12:36:25,497 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:36:25,497 DEBUG   SenderThread:18200 [sender.py:send():236] send: files
+2024-01-08 12:36:25,497 INFO    SenderThread:18200 [sender.py:_save_file():952] saving file wandb-metadata.json with policy now
+2024-01-08 12:36:25,497 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:36:25,815 DEBUG   SenderThread:18200 [sender.py:send():236] send: telemetry
+2024-01-08 12:36:25,998 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_created():269] file/dir created: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\wandb-metadata.json
+2024-01-08 12:36:25,998 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_created():269] file/dir created: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\requirements.txt
+2024-01-08 12:36:25,998 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_created():269] file/dir created: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\output.log
+2024-01-08 12:36:25,998 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_created():269] file/dir created: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\conda-environment.yaml
+2024-01-08 12:36:26,058 INFO    Thread-23 :18200 [upload_job.py:push():138] Uploaded file C:\Users\MICROS~1\AppData\Local\Temp\tmp04ei_ghjwandb\190spcg2-wandb-metadata.json
+2024-01-08 12:36:28,009 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_modified():286] file/dir modified: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\output.log
+2024-01-08 12:36:32,033 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_modified():286] file/dir modified: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\output.log
+2024-01-08 12:36:34,049 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_modified():286] file/dir modified: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\output.log
+2024-01-08 12:36:36,064 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_modified():286] file/dir modified: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\output.log
+2024-01-08 12:36:36,732 DEBUG   SenderThread:18200 [sender.py:send():236] send: config
+2024-01-08 12:36:36,736 DEBUG   SenderThread:18200 [sender.py:send():236] send: metric
+2024-01-08 12:36:36,740 DEBUG   SenderThread:18200 [sender.py:send():236] send: telemetry
+2024-01-08 12:36:36,740 DEBUG   SenderThread:18200 [sender.py:send():236] send: metric
+2024-01-08 12:36:36,740 WARNING SenderThread:18200 [sender.py:send_metric():908] Seen metric with glob (shouldn't happen)
+2024-01-08 12:36:36,744 DEBUG   SenderThread:18200 [sender.py:send():236] send: telemetry
+2024-01-08 12:36:38,085 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_modified():286] file/dir modified: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\output.log
+2024-01-08 12:36:40,829 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:36:40,829 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:36:55,168 INFO    Thread-17 :18200 [dir_watcher.py:_on_file_modified():286] file/dir modified: c:\Users\Microsoft\Documents\bt-james-reynaldi-feedback-generation-using-ml-and-nlp\wandb\run-20240108_123621-210ufff2\files\config.yaml
+2024-01-08 12:36:56,093 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:36:56,093 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:36:58,008 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:37:11,425 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:37:11,426 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:37:26,787 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:37:26,787 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:37:33,062 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:37:42,055 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:37:42,055 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:37:57,359 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:37:57,359 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:38:08,804 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:38:12,709 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:38:12,709 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:38:28,004 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:38:28,005 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:38:43,458 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:38:43,458 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:38:44,114 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:38:58,901 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:38:58,901 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:39:15,090 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:39:15,090 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:39:19,829 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:39:30,514 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:39:30,514 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:39:45,778 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:39:45,778 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:39:55,206 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:40:00,996 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:40:00,996 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:40:16,473 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:40:16,473 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:40:30,169 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:40:31,740 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:40:31,741 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:40:47,140 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:40:47,140 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:41:02,435 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:41:02,435 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:41:05,386 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:41:17,711 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:41:17,711 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:41:33,027 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:41:33,027 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:41:40,669 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:41:48,394 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:41:48,394 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:42:03,697 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:42:03,697 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:42:16,867 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:42:19,003 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:42:19,003 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:42:34,356 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:42:34,356 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:42:49,581 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:42:49,582 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:42:52,263 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:43:05,232 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:43:05,233 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:43:20,465 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:43:20,466 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:43:27,238 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:43:35,730 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:43:35,730 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:43:51,016 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:43:51,016 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:44:02,892 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:44:06,290 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:44:06,291 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:44:21,582 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:44:21,582 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:44:37,832 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:44:37,832 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:44:39,354 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:44:54,362 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:44:54,362 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:45:13,532 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:45:14,378 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:45:14,378 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:45:32,796 WARNING FileStreamThread:18200 [file_stream.py:request_with_retry():589] requests_with_retry encountered retryable exception: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None)). func: <bound method Session.post of <requests.sessions.Session object at 0x00000201ACC2B400>>, args: ('https://api.wandb.ai/files/aldi/your project name/210ufff2/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 14, 'content': ['{"system.gpu.0.gpu": 0.0, "system.gpu.0.memory": 0.0, "system.gpu.0.memoryAllocated": 1.83, "system.gpu.0.temp": 54.0, "system.cpu": 1.63, "system.memory": 64.61, "system.disk": 95.2, "system.proc.memory.availableMB": 8644.56, "system.proc.memory.rssMB": 5638.41, "system.proc.memory.percent": 23.09, "system.proc.cpu.threads": 72.0, "system.network.sent": 1074364, "system.network.recv": 1402871, "_wandb": true, "_timestamp": 1704714313, "_runtime": 531}']}}, 'dropped': 0}}
+2024-01-08 12:45:34,393 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:45:47,668 ERROR   SenderThread:18200 [retry.py:__call__():132] Retry attempt failed:
+Traceback (most recent call last):
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x00000201AD72DDC0>, 'Connection to api.wandb.ai timed out. (connect timeout=10)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000201AD72DDC0>, 'Connection to api.wandb.ai timed out. (connect timeout=10)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\wandb\sdk\lib\retry.py", line 108, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\wandb\sdk\internal\internal_api.py", line 158, in execute
+    return self.client.execute(*args, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\transport\requests.py", line 38, in execute
+    request = requests.post(self.url, **post_args)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Microsoft\anaconda3\envs\python39\lib\site-packages\requests\adapters.py", line 507, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000201AD72DDC0>, 'Connection to api.wandb.ai timed out. (connect timeout=10)'))
+2024-01-08 12:45:52,847 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:45:53,115 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:45:54,418 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:45:54,418 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:46:09,718 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:46:09,718 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:46:24,199 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:46:25,015 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:46:25,015 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:46:40,281 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:46:40,281 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:46:55,598 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:46:55,598 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:46:59,165 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:47:10,837 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:47:10,837 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:47:26,158 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:47:26,158 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:47:34,167 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:47:41,480 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:47:41,480 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:47:56,792 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:47:56,792 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:48:09,475 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:48:12,145 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:48:12,145 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:48:27,387 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:48:27,387 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:48:42,643 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:48:42,643 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:48:44,778 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:48:57,953 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:48:57,953 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:49:13,265 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:49:13,265 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:49:19,632 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:49:28,507 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:49:28,507 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:49:43,836 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:49:43,836 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:49:54,885 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:49:59,247 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:49:59,248 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:50:14,574 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:50:14,575 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:50:29,887 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:50:29,897 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:50:30,207 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:50:45,210 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:50:45,211 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:51:00,490 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:51:00,491 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:51:05,088 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:51:15,814 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:51:15,815 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:51:31,070 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:51:31,070 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:51:40,007 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:51:46,418 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:51:46,418 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:52:01,679 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:52:01,679 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status
+2024-01-08 12:52:15,447 DEBUG   SenderThread:18200 [sender.py:send():236] send: stats
+2024-01-08 12:52:16,907 DEBUG   HandlerThread:18200 [handler.py:handle_request():140] handle_request: stop_status
+2024-01-08 12:52:16,907 DEBUG   SenderThread:18200 [sender.py:send_request():250] send_request: stop_status

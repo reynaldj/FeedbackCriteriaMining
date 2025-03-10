@@ -1,0 +1,976 @@
+SPRACHE IN
+SCHULBÜCHERN
+Empfehlungen zur Sprachverwendung in
+Schulbüchern für SchulbuchautorInnen,
+GutachterInnen und Schulbuchverlage
+2
+Impressum:
+Herausgeber, Verleger:
+Bundesministerium für Unterricht, Kunst und Kultur, 1014 Wien
+Abteilungen B/8 und I/5a
+Autorinnen: Sabine Schmölzer-Eibinger, Evi Egger
+(unter Mitarbeit von Magdalena Dorner)
+Coverfoto: Johannes Raunig
+Druck: Digitales Druckzentrum des BMUKK
+© BMUKK 1. Auflage, Wien 2012
+3
+EINLEITUNG
+Schulbücher sind eine zentrale Lerngrundlage in nahezu allen Fächern.
+Wissen wird in Schulbüchern primär über Sprache vermittelt. Das gilt für
+Fächer wie Deutsch oder Englisch ebenso wie für Mathematik, Physik
+oder Geschichte. Sprache ist daher über die Fächergrenzen hinweg ein
+zentrales Instrument des Lernens. Wissenserwerb anhand von
+Schulbüchern setzt somit Sprachkompetenz voraus.
+Schulbücher dienen aber auch als ein Sprachlernangebot: Anhand von
+Schulbüchern können sich SchülerInnen nicht nur Fachwissen, sondern auch
+Sprache aneignen. Die Art der Sprachverwendung in Schulbüchern ist
+daher nicht nur für das fachliche, sondern auch für das sprachliche
+Lernen relevant.
+Nicht alle SchülerInnen können jedoch die Aufgabenstellungen und Texte
+der Schulbücher problemlos verstehen. Scheitern SchülerInnen schon am
+sprachlichen Verständnis, so dringen sie zur fachlichen Lösung von
+Aufgaben oft gar nicht vor. Dies kommt insbesondere bei SchülerInnen
+aus bildungsfernen Familien und bei SchülerInnen mit Deutsch als
+Zweitsprache häufig vor. Sie sind mit den sprachlichen Anforderungen
+der Schulbücher oftmals überfordert. Ihre Probleme resultieren meist
+nicht nur aus Lücken im Wortschatz und in der Fachsprache, sondern vor
+allem aus Schwierigkeiten im Umgang mit den komplexen
+schriftsprachlichen Strukturen, die die Aufgabenstellungen und Texte der
+Schulbücher kennzeichnen.
+Die sprachlichen Kompetenzen, die hier von den SchülerInnen verlangt
+sind, werden als „kognitiv-akademische Sprachfähigkeit“ (Cummins
+1979) oder auch als „Textkompetenz“ (Portmann-Tselikas 2002)
+bezeichnet. Darunter versteht man die Fähigkeit, „Texte lesen und
+verstehen und mittels Texten kommunizieren und lernen zu können“
+(Schmölzer-Eibinger 2008, 15)
+SchülerInnen mit eingeschränkter Textkompetenz können Schulbücher oft
+weder als ein Werkzeug des fachlichen noch des sprachlichen Lernens
+4
+nutzen. Ihre Probleme werden im Laufe der Schulzeit meist nicht kleiner,
+sondern im Gegenteil immer größer. Dies hat vor allem mit den
+steigenden sprachlichen Anforderungen zu tun, die mit den komplexer
+werdenden fachlichen Inhalten in den verschiedenen Fächern
+einhergeben.
+Die wachsende sprachliche Komplexität im Unterricht spiegelt sich
+unmittelbar auch in den Schulbüchern wieder: Auch hier wird zunehmend
+eine Sprache verwendet, die durch komplexe Begriffe und Strukturen,
+durch eine Verdichtung von Informationen und durch Abstraktheit
+gekennzeichnet ist. Es handelt sich also um eine Sprache, die durch
+Objektivität, Distanzierung und Komplexität gekennzeichnet ist. Sie wird
+als „Bildungssprache“ (Gogolin 2004) oder auch als „Schulsprache“
+(Feilke 2010) bezeichnet. Die Fähigkeit, mit dieser Sprache umgehen zu
+können, ist entscheidend für den Schulerfolg.
+Die Sprachverwendung in Schulbüchern sollte daher in allen Fächern so
+gestaltet sein, dass Sprache keine Hürde, sondern vielmehr ein
+Werkzeug des Lernens darstellt. Durch einen gezielten Einsatz von
+Sprache können SchülerInnen dabei unterstützt werden,
+Aufgabenstellungen und Texte zu verstehen und damit auch fachliche
+Herausforderungen besser zu bewältigen. Darüber hinaus kann durch
+eine bewusste Verwendung von schriftsprachlichen Strukturen die
+Textkompetenz der SchülerInnen erhöht werden, was für den gesamten
+Bildungsweg von grundlegender Bedeutung ist.
+Schulbücher können somit durch die Art ihrer sprachlichen Gestaltung
+dazu beitragen, den Lern- und Bildungserfolg von SchülerInnen zu
+erhöhen. Damit können vor allem SchülerInnen aus bildungsfernen
+Familien und jene mit Deutsch als Zweitsprache in ihrem sprachlichen und
+fachlichen Lernfortschritt unterstützt werden.
+Die Broschüre „Sprache in Schulbüchern“ enthält Empfehlungen für
+SchulbuchautorInnen, GutachterInnen und Schulbuchverlage, die dazu
+dienen, Sprache in Schulbüchern bewusst und gezielt zu verwenden. Die
+Vorschläge sind vor allem für die Gestaltung und Beurteilung von
+5
+Schulbüchern gedacht, sie können jedoch in modifizierter Form auch in
+Handreichungen für Lehrpersonen umgesetzt werden.
+Zunächst finden sich die Empfehlungen (= Guidelines) in Form einer
+kurzen Checkliste (Teil I) aufgelistet, dann werden diese in den
+Erläuterungen im Detail besprochen und anhand von Beispielen erklärt
+(Teil II).
+Die in den Guidelines verwendeten Beispiele beziehen sich auf die
+Fächer Deutsch, Mathematik, Biologie, Geschichte, Geographie und
+Physik der Primar- und der Sekundarstufe (Schulstufen 1, 4, 5, 8 und
+10). Die Empfehlungen sind jedoch nicht nur auf diese Fächer und
+Schulstufen anwendbar, sondern dienen auch zur sprachlichen Gestaltung
+von Schulbüchern anderer Fächer und Schulstufen.
+Die angeführten Beispiele finden sich in keinem der derzeit am Markt
+befindlichen Schulbücher wieder, die Art der Sprachverwendung und
+auch die sprachliche Struktur der angeführten Aufgabenstellungen und
+Texte sind allerdings durchaus häufig in den derzeit gängigen
+Schulbüchern anzutreffen.
+Die in den Guidelines blau markierten Wörter werden in einem Glossar
+am Ende der Broschüre erklärt (Teil III). Dieses dient vor allem dazu,
+gängige linguistische Begriffe, die in diesem Zusammenhang notwendig
+sind, einfach und verständlich zu erklären.
+6
+INHALTSVERZEICHNIS
+I. CHECKLISTE ZUR SPRACHVERWENDUNG IN SCHULBÜCHERN ........................................................... 7
+1. AUFGABENSTELLUNGEN ........................................................................................................................... 7
+2. TEXTE ........................................................................................................................................................... 10
+II. ERLÄUTERUNGEN ZUR CHECKLISTE ....................................................................................................... ..12
+1. HINTERGRUNDINFORMATIONEN .............................................................................................................. 12
+1.1. WORTEBENE.............................................................................................................................................................. 12
+1.2. SATZEBENE ................................................................................................................................................................. 13
+1.3. TEXTEBENE .................................................................................................................................................................. 14
+1.4. VISUELLE EBENE………………………..…………………………………………………………………………………… 15
+2. AUFGABENSTELLUNGEN ........................................................................................................................ 16
+2.1. WORTEBENE.............................................................................................................................................................. 16
+2.2. SATZEBENE ................................................................................................................................................................. 27
+2.3. TEXTEBENE .................................................................................................................................................................. 31
+2.4. VISUELLE EBENE ....................................................................................................................................................... 34
+III. GLOSSAR ...................................................................................................................................................... 37
+IV. LITERATURVERZEICHNIS ............................................................................................................................. 39
+7
+I. CHECKLISTE ZUR SPRACHVERWENDUNG
+IN SCHULBÜCHERN
+Die folgende Checkliste beinhaltet die wesentlichen Kriterien zur Überprüfung Gestaltung von
+Aufgabenstellungen und Texten in Schulbüchern. Anhand dieser Checkliste kann festgestellt werden,
+inwieweit ein Schulbuch den Anforderungen einer präzisen und kohärenten Sprachverwendung
+genügt; sie kann aber auch bei der sprachlichen Gestaltung von Aufgabenstellungen sowie bei der
+Auswahl von Texten eingesetzt werden. Diese Checkliste dient daher sowohl als Werkzeug der
+Beurteilung wie auch der Gestaltung von Schulbüchern.
+Die Antwortmöglichkeiten 0 - 3 bedeuten:
+0 = trifft nicht zu
+1 = trifft wenig zu
+2 = trifft eher zu
+3 = trifft völlig zu
+HINWEIS
+Im Idealfall sollten alle einzelnen Kriterien mit der höchsten Punkteanzahl bewertet werden
+können. Kann nicht die volle Punkteanzahl vergeben werden, so ist eine Überarbeitung des
+jeweiligen sprachlichen Bereichs zu empfehlen.
+1. AUFGABENSTELLUNGEN
+Die folgenden Kriterien beziehen sich auf die sprachliche Gestaltung bzw. Beurteilung von
+Aufgabenstellungen.
+A. WORTEBENE
+a. Die Wortverwendung ist sprachlich präzise und im jeweiligen Gebrauchszusammenhang angemessen.
+0 1 2 3
+8
+b. Schwierige Wörter (z. B. Fremdwörter, Fachwörter, Komposita) werden genau und
+ausreichend erklärt.
+0 1 2 3
+c. Die Worterklärungen (Erläuterungen, Definitionen etc.) sind präzise und verständlich.
+0 1 2 3
+d. Der Alltagswortschatz wird vom Fachwortschatz klar differenziert.
+0 1 2 3
+e. Es wird auf Funktionswörter (z. B. Konjunktionen, Präpositionen, Pronomen, Adverbien
+etc.), die für das Verständnis wichtig sind, aufmerksam gemacht.
+f. Die Anzahl der neu eingeführten Fachwörter und Fremdwörter ist angemessen.
+g. Schwierige Fachwörter und Fremdwörter werden mehrfach verwendet und in ihrer
+Bedeutung genau differenziert.
+0 1 2 3
+h. Es kommen keine Nominalisierungen vor, die das Aufgabenverständnis erschweren
+könnten.
+0 1 2 3
+i. Operatoren (benennen, erklären, beschreiben, etc.) werden explizit und korrekt
+eingesetzt.
+0 1 2 3
+B. SATZEBENE
+a. Die Satzkonstruktionen sind in ihrer Komplexität angemessen.
+0 1 2 3
+b. Zu häufige Subordination (= Unterordnung im Satz) wird vermieden.
+0 1 2 3
+c. Die Sätze sind explizit und vollständig.
+0 1 2 3
+Siehe S. 16
+Siehe S. 27
+9
+C. TEXTEBENE
+a. Es werden geeignete Kohäsionsmittel (z. B. Proformen, Rekurrenzen, Substitutionen
+etc.) verwendet, die die Sätze logisch-schlüssig miteinander verbinden.
+b. In der Aufgabenstellung werden alle Informationen gegeben, die für die Lösung der
+Aufgabe notwendig sind.
+0 1 2 3
+c. Die einzelnen Arbeitsschritte sind in einer nachvollziehbaren, sinnvollen Reihenfolge
+angegeben.
+0
+D. VISUELLE EBENE
+a. Wichtige Wörter bzw. Informationen werden visuell hervorgehoben (z. B. durch
+Überschriften, Hervorhebungen etc.).
+b. Inhalte bzw. Informationen werden in ihrem Zusammenhang verdeutlicht (z. B. durch
+Aufzählungen, Absätze etc.)
+Siehe S. 31
+Siehe S. 34
+10
+2. TEXTE
+Die folgenden Kriterien beziehen sich auf die Beurteilung bzw. Auswahl von Texten in Schulbüchern.
+A. WORTEBENE
+a. Die Wortverwendung ist präzise.
+0 1 2 3
+b. Der Alltagswortschatz wird vom Fachwortschatz klar differenziert.
+0
+c. Schwierige Wörter (Fremdwörter, Fachwörter, Komposita etc.) werden genau und
+nachvollziehbar erklärt.
+0
+d. Es wird auf für das Textverständnis grundlegende Funktionswörter (z. B. Konjunktionen,
+Präpositionen, Adverbien etc.) aufmerksam gemacht.
+B. SATZEBENE
+a. Das Textverständnis wird nicht durch allzu komplexe Satzkonstruktionen erschwert.
+b. Es werden Subordinationen (= Unterordnungen im Satz) vermieden, die das
+Textverständnis erschweren könnten.
+C. TEXTEBENE
+a. Informationen werden schrittweise eingeführt und nachvollziehbar miteinander
+verknüpft.
+b. Es werden geeignete Kohäsionsmittel (Proformen, Rekurrenzen, Substitutionen etc.)
+verwendet, die einen inhaltlichen Zusammenhang herstellen.
+Siehe S. 27
+11
+c. Es besteht ein inhaltlich nachvollziehbarer Zusammenhang zwischen den einzelnen
+Sätzen.
+d. Es besteht ein inhaltlich nachvollziehbarer Zusammenhang zwischen den einzelnen
+Absätzen.
+E. VISUELLE EBENE
+a. Wichtige Informationen werden im Text visuell hervorgehoben (z. B. Fett-/Kursivdruck,
+Randbemerkungen etc.).
+b. Zusammengehörige Informationen bzw. Textelemente werden deutlich gekennzeichnet
+(z. B. Absätze, Zwischenüberschriften etc.).
+Siehe S. 31
+Siehe S. 34
+12
+II. ERLÄUTERUNGEN ZUR CHECKLISTE
+Im zweiten Teil der vorliegenden Broschüre werden zunächst die für die Analyse notwendigen
+Hintergrundinformationen gegeben und anschließend die einzelnen Kriterien der Checkliste anhand
+von konkreten Aufgabenstellungen erläutert.
+1. HINTERGRUNDINFORMATIONEN
+Im Folgenden wird auf die einzelnen Ebenen der Checkliste näher eingegangen (Wortebene,
+Satzebene, Textebene, visuelle Ebene). Es werden grundlegende Informationen gegeben, die deren
+Relevanz für die Konzeption von Aufgabenstellungen und Texten in Schulbüchern verdeutlichen sollen.
+1.1. WORTEBENE
+Wörter sind zentrale sprachliche Elemente in Schulbüchern. Ein profundes Wortverständnis ist
+grundlegend im Umgang mit Aufgabenstellungen und Texten. Wortbedeutungen sind immer in ihrem
+jeweiligen Gebrauchszusammenhang verankert. Ein differenziertes Wortverständnis kann von den
+SchülerInnen vor allem dann aufgebaut werden, wenn Wörter in Schulbüchern in verschiedenen
+Verwendungskontexten eingesetzt und in ihrer jeweiligen Bedeutung genau unterschieden und
+ausführlich erklärt werden.
+Betrachtet man den Wortschatzumfang bei der Einschulung, so lässt sich feststellen, dass der
+produktive Wortschatz in der Erstsprache ca. 5.000 Wörter beträgt, der rezeptive Wortschatz ca.
+15.000 Wörter; am Ende der Regelschulzeit wird der Wortschatzumfang produktiv auf ca. 15.000
+Wörter und rezeptiv auf 60.000 Wörter geschätzt (vgl. Glück: 2005). Mit Schuleintritt erfolgt eine
+erhebliche Ausweitung des Wortschatzes, da neben dem Alltagswortschatz zunehmend auch
+Fachbegriffe erworben werden. So werden pro Schuljahr in allen Fächern insgesamt ca. 3000 neue
+Wörter eingeführt (Apeltauer 2008: 244).
+Für SchülerInnen mit Deutsch als Zweitsprache entstehen durch die hohe Anzahl der neu eingeführten
+Wörter im Unterricht oft besondere Probleme. Der Erwerb neuer Wörter in der Zweitsprache sollte
+daher nicht nur im Unterricht, sondern auch in Schulbüchern gezielt angeregt werden. Das bedeutet
+vor allem, dass Wörter dosiert und schrittweise eingeführt, in unterschiedlichen
+Gebrauchszusammenhängen angeboten und in ihren Bedeutungen genau erklärt werden.
+Wörter sind die Einheiten, aus denen Sätze und Texte aufgebaut sind.
+13
+1.2. SATZEBENE
+Die Zusammenstellung von Wörtern, Phrasen und Satzgliedern zu Sätzen ist Gegenstand der Syntax
+(= Satzlehre). Sätze können unterschiedlich aufgebaut sein: Man unterscheidet zwischen einfachen
+und komplexen Sätzen. Ein Beispiel für einen einfachen Satz (Hauptsatz) wäre: „Peter geht in die
+Schule.“. Komplexe Sätze bestehen aus mehreren Teilsätzen, man unterscheidet dabei zwischen der
+Parataxe (Nebenordnung gleichrangiger Teilsätze) und der Hypotaxe (Unterordnung
+ungleichrangiger Teilsätze). Ein Beispiel für eine parataktische Satzverbindung (= Satzreihe) wäre:
+„Peter geht gerne ins Kino und sieht gerne fern.“. Ein Beispiel für eine hypotaktische Satzverbindung
+wäre: „Peter geht zum Spielplatz, weil er sich gerne mit Freunden trifft.“.
+Bei Schuleintritt ist die syntaktische Entwicklung der Kinder nur zum Teil abgeschlossen.
+SchulanfängerInnen beherrschen zwar in der Regel grundlegende syntaktische Strukturen und können
+im Alter von etwa fünf Jahren bereits relativ lange Sätze bilden, das Verständnis komplexer
+Satzkonstruktionen bereitet ihnen aber oft noch Probleme. Dies zeigt sich etwa beim Verständnis von
+Sätzen wie „Peter ist leicht zu sehen.“. Kinder interpretieren diesen Satz in diesem Alter meist so,
+dass Peter leicht sieht. Sie schreiben also Peter die Rolle des Subjekts zu und gehen davon aus, dass
+in diesem Satz das Aktiv verwendet wurde (vgl. Drosdowksi 1984, 176).
+Insgesamt werden die Sätze der SchülerInnen im Laufe der Schulzeit zunehmend länger und
+komplexer (vgl. Gasteiger-Klicpera/Klicpera/Schabmann 2010: 84). Grießhaber (2009: 117)
+konnte mit dem Förderprojekt „Deutsch und PC“ zeigen, dass sich die durchschnittliche Anzahl der
+Satzelemente pro Text in den Schülertexten von der 1. bis zur 4. Schulstufe von 5,0 (1. Klasse) auf
+28,9 (4. Klasse) gesteigert hat. Kinder mit Deutsch als Zweitsprache haben in dieser Studie
+gegenüber Kindern mit Deutsch als Erstsprache deutlich schlechter abgeschnitten.
+Ein zu komplexer Satzbau in Schulbüchern kann das Aufgaben- und Textverständnis für die
+SchülerInnen erschweren und v. a. bei Kindern mit Deutsch als Zweitsprache zu gravierenden
+Problemen führen. Dies bedeutet jedoch nicht, dass komplexe Satzstrukturen in Schulbüchern gänzlich
+vermieden werden sollten – Sätze sollten vielmehr so strukturiert sein, dass die Fähigkeit der
+SchülerInnen, mit zunehmend komplexen Satzstrukturen im Unterricht umzugehen, im Laufe der
+Schulzeit nach und nach aufgebaut werden kann.
+Sätze sind systematische Kombinationen von Wörtern.
+14
+1.3. TEXTEBENE
+Die Frage, was einen Text zu einem Text macht, stellt sich als Frage nach dem Zusammenhang
+zwischen Sätzen. Die Beziehungen zwischen den einzelnen Sätzen eines Textes lassen sich vielfach an
+sprachlichen Elementen festmachen (vgl. Linke/Nussbaumer/Portmann 1996: 215). Diese werden als
+Kohäsionsmittel bezeichnet und stellen als sprachliche Werkzeuge der Textverknüpfung einen
+inhaltlichen Zusammenhang (Kohäsion) in einem Text her. Die Verwendung von Kohäsionsmittel
+entscheidet oft darüber, wie ein Problemzusammenhang in einem Text entfaltet wird und ob die
+Anordnung und Verknüpfung von Informationen nachvollziehbar ist. Je nach Art der Textverknüpfung
+können verschiedene Kohäsionsmittel unterschieden werden.
+Zu den häufigsten Kohäsionsmitteln zählen Proformen (z. B.: Das ist Claudia. Sie ist die Tochter von
+Frau Mair.); dabei handelt es sich um weitgehend inhaltsleere sprachliche Elemente (Sie), die auf ein
+Bezugselement im Text (Claudia) verweisen. Unter Rekurrenzen versteht man die Wiederaufnahme
+eines bereits eingeführten Textelements (z. B. Hund – Hund in: Gestern habe ich einen Hund gesehen.
+Der Hund war groß.). Von Substitutionen spricht man, wenn ein Textelement durch ein anderes,
+inhaltlich verbundenes im Text wieder aufgenommen wird und sich beide Elemente auf dasselbe
+Objekt beziehen (z. B. Auf dem Markt kann man frische Tomaten und Gurken kaufen. Dieses Gemüse
+ist zudem sehr günstig). Konnektive (und, weil, während etc.) sind Bindeglieder innerhalb eines Satzes,
+zwischen selbstständigen Sätzen oder Textteilen, die Zusammenhänge unterschiedlicher Art herstellen
+(z. B. kausal, temporal etc.) (vgl. Linke/Nussbaumer/Portmann 1996: 216ff).
+Wenn wir feststellen wollen, ob wir bei mehreren aneinander gereihten Sätzen einen Text vor uns
+haben, sind nicht nur die Verknüpfungen durch Kohäsionsmittel ausschlaggebend, sondern es kommt
+auch darauf an, ob wir einen Sinnzusammenhang feststellen können, der sich nicht unmittelbar an der
+Verwendung sprachlicher Mittel auf der Textoberfläche zeigt (vgl. ebda: 225). Um eine
+Verknüpfung von Gedanken in der Tiefenstruktur eines Textes zu erkennen, müssen wir meist auch auf
+unser allgemeines Wissen über Texte sowie unser außersprachliches Wissen (z. B. Weltwissen,
+Handlungswissen) zurückgreifen. Dieses Wissen kann kulturell unterschiedlich geprägt sein und bei
+Kindern mit Deutsch als Zweitsprache zu Verständnisproblemen führen.
+Die logisch-schlüssige Anordnung von Informationen sowie der angemessene Einsatz von
+Kohäsionsmitteln sind auch in den Aufgabenstellungen und Texten der Schulbücher von großer
+Bedeutung. Sie unterstützen die SchülerInnen darin, Sinnzusammenhänge zu verstehen und Aufgaben
+zu lösen.
+Ein Text ist eine zusammenhängende Folge von Sätzen.
+15
+1.4. VISUELLE EBENE
+Ziel von Visualisierungen ist es, Informationen zu präsentieren, hervorzuheben oder näher zu
+erklären. Durch Visualisierungen werden beide Gehirnhälften aktiviert, sodass Wörter und Inhalte
+besser einprägt und behalten werden können (vgl. Lenzen 1999: 90).
+Eine Hervorhebung bzw. Veranschaulichung von Inhalten kann in Schulbüchern durch das Schriftbild
+(Fett- oder Farbdruck, Überschriften, Absätze) oder durch bildliche Darstellungen (Bilder, Grafiken,
+Diagramme, Skizzen, Fotos etc.) erreicht werden.
+Visualisierungen sind nicht immer in Texte integriert, sie kommen vielfach eigenständig, aber auf
+Texte bezogen vor (z. B. Bilder, Grafiken etc.). Oft werden Zusammenhänge, die aus der Lektüre
+nicht erschlossen werden konnten, zwischen einzelnen Textinformationen erst durch Visualisierungen
+deutlich (vgl. Langer 2010). Ein Zweck von Visualisierungen besteht daher darin, das inhaltliche
+Verständnis von Texten zu erleichtern. Visualisierungen können aber auch dazu eingesetzt werden,
+um die im Text gegebenen Informationen zu erweitern.
+Eine Schwierigkeit beim Entschlüsseln von visuellen Informationen entsteht für SchülerInnen mitunter
+dadurch, dass sie beim Lesen zwischen dem Text und den Abbildungen wechseln müssen (vgl.
+Stäudel/Francke-Braun/Parchmann 2008). Für manche SchülerInnen entstehen dadurch Probleme,
+den Informationsgehalt von Diagrammen, Statistiken o. ä. zu entschlüsseln.
+In den Empfehlungen dieser Broschüre werden vor allem Vorschläge für Visualisierungen von
+Informationen und Wörtern im Schriftbild gemacht. Damit sollen Verstehenshilfen für SchülerInnen und
+v. a. für Lernende mit Deutsch als Zweitsprache gegeben werden, die es erleichtern, zentrale
+Informationen und Begriffe in den Aufgabenstellungen und Texten der Schulbücher zu entschlüsseln.
+Visualisierungen sind graphische oder bildliche Mittel, die Informationen veranschaulichen.
+16
+2. AUFGABENSTELLUNGEN
+Anhand von Aufgabenbeispielen werden die einzelnen Kriterien der Checkliste nun näher erläutert.
+Ausgehend von Aufgabenanalysen werden Vorschläge für die Formulierung von Aufgaben gemacht,
+die für die Umsetzung in Schulbüchern, aber auch für LehrerInnenhandreichungen gedacht sind. Sie
+sollen die SchülerInnen - v.a. jene mit Deutsch als Zweitsprache - dabei unterstützen, die sprachlichen
+Anforderungen in Schulbüchern zu bewältigen.
+2.1. WORTEBENE
+a) PRÄZISION UND ANGEMESSENHEIT DER WORTVERWENDUNG
+Die Wortverwendung soll in Aufgabenstellungen klar, genau und angemessen, d. h. für die jeweilige
+Altersgruppe, das Thema, die Problemstellung und den Verwendungszusammenhang passend sein.
+Das folgende Beispiel erfüllt diese Anforderungen nicht:
+DIE WORTVERWENDUNG SOLL SPRACHLICH PRÄZISE UND IM JEWEILIGEN
+GEBRAUCHSZUSAMMENHANG ANGEMESSEN SEIN.
+Schau auf die Lauttabelle! Zu jedem Buchstaben gibt es zwei Gegenstände mit demselben
+Anlaut! Verbinde!
+(Deutsch, 1. Schulstufe)
+17
+Das hier vorgestellte Beispiel ist für ein Deutschbuch der ersten Schulstufe gedacht und somit an
+SchulanfängerInnen gerichtet. Der Begriff „Lauttabelle“ wird nicht erklärt, ebenso wenig wie der
+Begriff „Anlaut“. Während der Begriff „Lauttabelle“ durch eine Tabelle ein paar Seiten zuvor
+verdeutlicht wird, fehlt eine Erklärung des wenig gebräuchlichen Begriffs „Anlaut“. Aus der
+Aufgabenstellung geht weiters nicht hervor, in welcher Verbindung die abgebildeten Gegenstände
+zu den Buchstaben stehen. Dazu kommt, dass Gegenstände nicht an sich einen Anlaut besitzen gemeint sind hier vielmehr die Wörter, die sie bezeichnen. Weiters ist fraglich, ob die
+Handlungsaufforderung „Verbinde“ ohne weitere Probleme von den SchülerInnen verstanden werden
+kann: Was soll hier konkret womit verbunden werden? Das Aufgabenverständnis wird zusätzlich
+dadurch erschwert, dass sich die Lauttabelle nicht auf derselben Seite wie die Aufgabenstellung
+befindet und auch keine Hinweise gegeben werden, wo diese Tabelle im Buch anzutreffen ist. Mehr
+Klarheit könnte durch eine folgendermaßen umformulierte Aufgabenstellung erreicht werden:
+Bereits im ersten Satz der Aufgabenstellung werden die Kinder explizit auf das Beispiel verwiesen
+und erhalten dadurch eine klare Information darüber, was hier von ihnen konkret verlangt wird.
+Dadurch kann die Aufgabe besser verstanden und von den Kindern eigenständig gelöst werden.
+Schau genau auf die Bilder und die Buchstaben: Das Bild vom Esel und vom Eis ist mit einem „E“
+verbunden. Die beiden Wörter Esel und Eis beginnen also mit dem gleichen Buchstaben „E“. Suche
+nun zu allen Buchstaben zwei passende Bilder! Verbinde die Bilder mit den passenden
+Buchstaben!
+18
+b) SCHWIERIGE WÖRTER
+Zu schwierigen Wörtern zählen Fremdwörter, fachsprachliche Begriffe sowie komplexe Komposita.
+Um das Verständnis solcher Wörter zu sichern, sollten diese präzise und im Detail erklärt werden.
+Im folgenden Beispiel werden Wörter, die von den SchülerInnen als schwierig empfunden werden
+können, nicht genau genug erklärt:
+In diesem Beispiel wird eine Vielzahl an Fremdwörtern verwendet (recherchieren, Journal, referieren)
+und es kommen zahlreiche fachsprachliche Begriffe (Nationalität, Wirtschaftszweige, Bedarf,
+Migranten) und Komposita (Wirtschaftszweig, Arbeitsmigranten, Arbeitskräfte) vor. Um die Bedeutung
+der Fremdwörter verständlich zu machen, könnten diese erklärt, definiert, übersetzt oder durch ein
+allgemeinsprachliches Synonym ersetzt werden. Um die fachsprachlichen Begriffe und Komposita zu
+verdeutlichen, könnten diese ebenfalls erklärt oder aber schon im Vorfeld entsprechend thematisiert
+werden. Wurde ein Begriff schon zuvor im Schulbuch verwendet, so sollte es entsprechende Hinweise
+geben, die den SchülerInnen ein rasches Nachschlagen ermöglichen (z. B. durch ein Sternchen, eine
+Seitenangabe o. ä.). Darüber hinaus ist zu empfehlen, insgesamt weniger komplexe Wörter zu
+verwenden. Davon ausgehend könnte die Aufgabenstellung wie folgt verbessert werden:
+SCHWIERIGE WÖRTER SOLLEN GENAU UND AUSREICHEND ERKLÄRT WERDEN.
+Welchen Nationalitäten gehören die meisten Arbeitsmigrantinnen und -migranten momentan in
+Österreich an? Welche Wirtschaftszweige melden derzeit Bedarf an ausländischen Arbeitskräften? Recherchiere in Journalen, Zeitungen, im Internet und in Büchern die Situation von
+Migrantinnen und Migranten in Österreich und referiere darüber.
+(Geschichte, 10. Schulstufe)
+1. Aus welchen Ländern stammen viele Arbeitsmigrantinnen und -migranten* in der heutigen Zeit?
+2. Welche Wirtschaftszweige* melden derzeit Bedarf an zusätzlichen ausländischen
+Arbeitskräften an?
+3. Suche in Zeitschriften, Zeitungen, Büchern und im Internet nach Informationen über die Situation
+von Migranten und Migrantinnen in Österreich und berichte darüber in der Klasse.
+(Geschichte, 10. Schulstufe)
+* Arbeitsmigration: Das Auswandern von Menschen mit dem Ziel, in einem fremden Land
+berufstätig zu sein. Das Wort stammt aus dem Lateinischen migratio, was „Wanderung“,
+„Auswanderung“ bedeutet. Arbeitsmigrantinnen und Arbeitsmigranten sind daher Personen, die in
+ein fremdes Land ziehen, um dort zu arbeiten.
+* Wirtschaftszweig: Unternehmen, die nah verwandte Güter (z. B. Lebensmittel, Haushaltsgeräte
+etc.) herstellen. Ein Wirtschaftszweig kann auch als „Branche“ bezeichnet werden.
+19
+Die Komposita „Arbeitsmigration“ und „Wirtschaftszweige“ werden hier genau erklärt, um möglichen
+Verständnisschwierigkeiten vorzubeugen. Um die allzu hohe Anzahl an schwierigen Wörtern wie in
+der ursprünglichen Aufgabenstellung zu reduzieren, wurden jene komplexen Wörter, die für die
+Lösung nicht unmittelbar relevant sind, in der Aufgabenstellung durch einfachere Wörter ersetzt (z. B.
+„recherchieren“ durch „suchen“).
+Durch die Gliederung der Aufgabenstellung in Unterfragen und Handlungsanweisungen ist die
+Aufgabenstellung nun überschaubarer und in der Abfolge der einzelnen Arbeitsschritte klarer.
+c) ERLÄUTERUNGEN UND DEFINITIONEN
+Unbekannte Wörter sollen den SchülerInnen genau und ausführlich erklärt werden, um Fehldeutungen
+und Missverständnissen vorzubeugen.
+Im folgenden Beispiel gibt es keine Definition des neu eingeführten Begriffs „Buchkritik“. SchülerInnen
+der 8. Schulstufe, für die diese Aufgabe gedacht ist, können möglicherweise weder mit dem Begriff
+„Buchkritik“ noch mit dem Wort „Rezension“ etwas anfangen:
+Ohne zu wissen, was der Begriff „Buchkritik“ bedeutet, kann die Aufgabe nicht gelöst werden. Der
+Begriff „Buchkritik“ sollte daher erklärt werden. Die Erklärung könnte visuell hervorgehoben, in einen
+farbigen Merkkasten gestellt und mit dem Hinweis (z. B. „Nicht vergessen“) versehen werden. Damit
+wird den SchülerInnen signalisiert, dass es sich hier um ein „Schlüsselwort“ handelt.
+WORTERKLÄRUNGEN SOLLEN PRÄZISE UND VERSTÄNDLICH SEIN.
+NICHT VERGESSEN:
+Eine Buchkritik ist eine Buchbesprechung. Sie umfasst einen Einleitungsteil, einen Mittelteil und einen
+Schlussteil. Im Einleitungsteil erfährt man etwas über das Thema und die Art des Buches (Roman,
+Krimi usw.), im Mittelteil wird der Inhalt skizziert, im Schlussteil findet eine Bewertung statt.
+Schreibe zu dem Buch „Der Regenbogen hat nur acht Farben“ von Peter Pohl eine Buchkritik
+(Rezension)!
+(Deutsch, 8. Schulstufe)
+Schreib zu dem Buch „Der Regenbogen hat nur acht Farben“ von Peter Pohl eine Buchkritik!
+20
+In dieser Erklärung erfahren die SchülerInnen nicht nur was mit diesem Begriff gemeint ist, sondern sie
+erhalten auch Informationen darüber, wie eine Buchkritik aufgebaut sein sollte.
+d) ALLTAGS- UND FACHWORTSCHATZ
+Eine Problematik besteht in Aufgabenstellungen vielfach darin, dass die Bedeutung von
+Fachbegriffen aus dem Verständnis von Alltagsbegriffen abgeleitet, jedoch nicht entsprechend
+kontrastiert wird. Das wirft häufig vor allem für SchülerInnen mit Deutsch als Zweitsprache Probleme
+auf, denen mitunter schon ein genaueres Verständnis von Alltagsbegriffen fehlt und der Unterschied
+zu den fachsprachlichen Bedeutungen zudem nicht klar ist.
+Im folgenden Beispiel findet keine Differenzierung zwischen Alltags- und Fachwortschatz statt.
+Ein Verständnis des Fachbegriffs „Trägheitskräfte“ könnte für die SchülerInnen schwierig sein, da das
+Wort „Trägheit“ im Alltagswortschatz eine gänzlich andere Bedeutung hat als im fachlichen Kontext.
+Die SchülerInnen sollten daher explizit auf die Bedeutungsunterschiede dieses Begriffs in der
+Alltagssprache und der Fachsprache (Physik) verwiesen werden.
+In der folgenden Aufgabenstellung wird dies versucht:
+Die in der Alltags- und Fachsprache unterschiedlichen Bedeutungen des Begriffs „Trägheit“ werden in
+diesem Beispiel genau voneinander unterschieden und die fachsprachliche Bedeutung des Begriffs
+wird zudem genau erklärt. Dadurch soll sichergestellt werden, dass ein fehlendes begriffliches
+Verständnis nicht die Lösung der Aufgabenstellung behindert.
+DER ALLTAGSWORTSCHATZ SOLL VOM FACHWORTSCHATZ KLAR DIFFERENZIERT WERDEN.
+Beschreibe drei Situationen, bei denen du auf einer Autofahrt Trägheitskräfte spürst!
+(Physik, 9. Schulstufe)
+Beschreibe drei Situationen, bei denen du auf einer Autofahrt Trägheitskräfte spüren kannst!
+Berücksichtige hierbei, dass mit Trägheit nicht wie in der Alltagssprache „Faulheit, Lahmheit,
+Schwunglosigkeit“ gemeint ist. In der Physik versteht man unter Trägheit „den Widerstand eines
+Körpers gegen Bewegungsänderungen“ - Trägheitskräfte sind folglich Widerstandskräfte.
+(Physik, 9. Schulstufe)
+21
+e) FUNKTIONSWÖRTER
+Als besonders schwierig erweisen sich vielfach jene Wörter, die keine konkreten Inhalte
+transportieren und daher auf den ersten Blick unbedeutend scheinen. Es handelt sich dabei v. a. um
+Konnektive und Präpositionen, wie wir sie in Aufgabenstellungen naturwissenschaftlicher und
+mathematischer Schulbücher häufig antreffen. Diese Wörter stellen vielfach jene Zusammenhänge
+her, die für das Verständnis einer fachlichen Problemstellung grundlegend sind. Gerade SchülerInnen
+mit Deutsch als Zweitsprache scheitern oft daran, dass sie diese Funktionswörter nicht kennen bzw. für
+den Aufbau eines Aufgabenverständnisses nicht einsetzen können (vgl. Schmölzer-Eibinger 2011,
+27f). In der folgenden Textaufgabe (Gogolin 2004, 81) spielen Funktionswörter eine zentrale Rolle
+für das Verständnis der Aufgabenstellung:
+Für das Verständnis dieser Aufgabenstellung sind die Wörter „während“, „unter“ und „über“
+entscheidend. Werden diese von den SchülerInnen nicht verstanden, so kann die Aufgabe auch nicht
+gelöst werden. Ein Aufgabenverständnis kann unterstützt werden, wenn die SchülerInnen auf diese
+Funktionswörter durch Hervorhebungen, Erklärungen oder bildliche Darstellungen aufmerksam
+gemacht werden:
+Die optische Hervorhebung der Wörter „über“ und „unter“ durch Unterstreichungen sowie der
+Hinweis auf die Bedeutung des Wortes „während“ im Kästchen sollte bereits ein Bewusstsein für die
+Funktion dieser Wörter bei den SchülerInnen erzeugt haben und ein Verständnis dieser Textaufgabe
+ES SOLL AUF DIE FÜR DAS TEXTVERSTÄNDNIS WICHTIGEN FUNKTIONSWÖRTER AUFMERKSAM
+GEMACHT WERDEN.
+Im Salzbergwerk Bad Friedrichshall wird Steinsalz abgebaut. Das Salz lagert 40m unter
+Meereshöhe, während Bad Friedrichshall 155m über Meereshöhe liegt. Welche Strecke legt der
+Förderkorb zurück?
+(Mathematik, 6. Schulstufe)
+Im Salzbergwerk Bad Friedrichshall wird Steinsalz abgebaut. Das Salz lagert 40m unter der
+Meereshöhe, während Bad Friedrichshall 155m über der Meereshöhe liegt. Welche Strecke legt
+der Förderkorb zurück?
+während: Das Wort „während“ kann mehrere Bedeutungen haben. Meistens versteht man darunter,
+dass zwei Dinge zur gleichen Zeit geschehen (z.B.: Während sie den Tisch abräumte, las er ein Buch).
+In dieser Aufgabenstellung drückt „während“ jedoch einen Gegensatz aus - man könnte auch sagen:
+Im Salzbergwerk Bad Friedrichshall lagert das Salz 40m unter der Meereshöhe, im Gegensatz dazu
+liegt Bad Friedrichshall 155m über der Meereshöhe.
+22
+ermöglichen. Sollte eine zusätzliche Veranschaulichung dieser Begriffe nötig sein, so könnte dies
+durch eine grafische Veranschaulichung wie die folgende geleistet werden.
+Bad Friedrichshall Über der Meereshöhe
+Salz Unter der Meereshöhe
+f) ANZAHL AN FACHWÖRTERN
+Wenn innerhalb einer Aufgabenstellung allzu viele neue Fachwörter auftreten, könnte dies zu
+Verständnisproblemen führen. Neue Fachwörter sollen daher gezielt und dosiert eingesetzt werden.
+Im folgenden Beispiel ist die Anzahl der neu eingeführten Fachwörter allzu hoch:
+Die zahlreichen Fachwörter in dieser Aufgabenstellung („Ertrag“, „Bausparvertrag“, „Betrag“,
+„Verzinsung“) könnten dazu führen, dass die Aufgabe von den SchülerInnen nicht genau verstanden
+wird. Die Aufgabenstellung könnte entlastet werden, indem einige Fachbegriffe durch Alltagswörter
+ersetzt bzw. nur jene Fachwörter verwendet werden, die für das Lösen der Aufgabenstellung
+unbedingt notwendig sind.
+In der folgenden Überarbeitung wird nur ein zentraler Fachbegriff, nämlich „Verzinsung“, verwendet,
+die SchülerInnen können sich somit auf diesen Begriff konzentrieren und die Aufgabenstellung
+zielgerichtet bearbeiten. Die Wendung „das Geld ruhen lassen“ wird zudem im Anschluss an die
+Aufgabenstellung erklärt.
+DIE ANZAHL DER NEU EINGEFÜHRTEN FACHWÖRTER SOLL ANGEMESSEN SEIN.
+Der Ertrag eines Bausparvertrages ergibt 2.340 €. Frau Maier lässt den Betrag 5 Jahre bei einer
+Verzinsung von 2,7% ruhen. Welchen Betrag bekommt sie nach 5 Jahren?
+(Mathematik, 8. Schulstufe)
+Meereshöhe
+23
+In dieser Aufgabenstellung wird eine Situation beschrieben, die den meisten SchülerInnen aus ihrem
+Alltag vertraut sein dürfte; viele von ihnen besitzen wohl bereits ein Sparbuch. Dadurch ist ihnen
+vermutlich auch das verwendete Vokabular geläufig (Sparbuch, Geld usw.), sodass sie ihre
+Aufmerksamkeit ganz auf den Begriff der „Verzinsung“ konzentrieren können.
+g) MEHRFACHE VERWENDUNG UND GENAUE DIFFERENZIERUNG VON FACHWÖRTERN UND
+FREMDWÖRTERN
+Fachwörter nehmen in unterschiedlichen Kontexten oftmals verschiedene Bedeutungen an.
+SchülerInnen sollen auf diese Bedeutungsunterschiede aufmerksam gemacht werden, indem
+Fachwörter mehrfach verwendet und in ihrer Bedeutung jeweils genau voneinander abgegrenzt
+werden.
+Im folgenden Beispiel wird der Begriff Kiefer zwar in verschiedenen Aufgabenstellungen in
+unterschiedlichen Kontexten verwendet, aber es findet keine begriffliche Differenzierung statt:
+Die Lernenden sollten auf die unterschiedliche Bedeutung des Begriffs „Kiefer“ aufmerksam gemacht
+werden, ein Vorschlag dazu ist:
+SCHWIERIGE FACHWÖRTER UND FREMDWÖRTER SOLLEN MEHRFACH VERWENDET UND
+GENAU DIFFERENZIERT WERDEN.
+WICHTIG:
+Im Geografieunterricht wird mit „Kiefer“ (Föhre) eine Pflanzengattung (Nadelholzgewächse)
+bezeichnet (= die Kiefer). Im Biologieunterricht werden mit dem Wort „Kiefer“ die Knochen des
+Gesichtsschädels bezeichnet, die den Nasen-, Augen- und Mundbereich umfassen (= der Kiefer).
+Marion hat auf ihrem Sparbuch 2.340 €. Sie lässt das Geld 5 Jahre lang bei einer Verzinsung von
+2,7% pro Jahr auf diesem Sparbuch ruhen*. Wie viel Geld hat sie nach 5 Jahren?
+1. Kiefernholz gehört neben dem Fichtenholz zu den wichtigsten Nadelhölzern. Wofür wird
+das Holz der Kiefer verwendet? (Biologie/Geografie, 5. Schulstufe)
+2. Wie sind die Zähne beim Menschen im Kiefer verankert? (Biologie, 5. Schulstufe)
+Wie sind die Zähne beim Menschen im Kiefer verankert? Lies zunächst aufmerksam die
+Informationen im unten stehenden Merkkasten durch!
+*Das Geld ruhen lassen: 5 Jahre lang kein Geld vom Sparbuch abheben.
+24
+Diese Erklärung soll dazu beitragen, die SchülerInnen darauf aufmerksam zu machen, dass das Wort
+„Kiefer“ je nach Verwendungszusammenhang unterschiedliche Bedeutungen haben kann. Auf Basis
+dieses differenzierten Begriffsverständnisses kann auch das Aufgabenverständnis erleichtert
+werden.
+h) NOMINALISIERUNG
+Nominalisierungen können das Verständnis von Aufgabenstellungen erschweren, wenn diese zu
+häufig eingesetzt werden; dies gilt insbesondere für Kinder mit Deutsch als Zweitsprache (vgl. Rösch
+2010: 220). Nominalisierungen sollten daher gezielt ausgewählt und dosiert verwendet werden.
+In der folgenden Aufgabenstellung ist dies nicht der Fall:
+Die zahlreichen Nominalisierungen in dieser Aufgabenstellung (die „Errichtung“, im „Groben“, die
+„Konstruktion“, die „Benutzung“) sind für die Darstellung des Sachzusammenhanges nicht unbedingt
+notwendig, sie könnten aber das Aufgabenverständnis für die SchülerInnen erschweren. Würde man
+die Anzahl der Nominalisierungen verringern, könnte dies vermieden werden:
+In dieser Aufgabenstellung wurden die Anzahl der Nominalisierungen und damit auch der sprachliche
+Schwierigkeitsgrad der Aufgabenstellung reduziert.
+ES SOLLEN KEINE NOMINALISIERUNGEN VORKOMMEN, DIE DAS AUFGABENVERSTÄNDNIS
+ERSCHWEREN KÖNNTEN.
+Begründe die Errichtung der Pyramiden in Ägypten! Beschreibe im Groben die Konstruktion des
+Baus und deren Art der Benutzung!
+(Geschichte, 5. Schulstufe)
+Warum wurden Pyramiden im alten Ägypten erbaut? Beschreibe in 2-3 Sätzen, wie die
+Pyramiden aussehen und wie sie genutzt wurden!
+25
+i) OPERATOREN
+Operatoren wie etwa die Verben „benennen“, „beschreiben“, „erklären“, „begründen“ oder
+„argumentieren“ bezeichnen sprachlich-kognitive Handlungen, die für die Kommunikation im
+Unterricht und den Erwerb von Wissen in allen Fächern zentral sind. Operatoren sollen in
+Aufgabenstellungen explizit eingesetzt werden, damit die SchülerInnen verstehen, welche sprachlichkognitiven Handlungen von ihnen verlangt werden (soll man z. B. etwas benennen, erklären,
+argumentieren etc.?).
+Operatoren sollen darüber hinaus altersgemäß eingesetzt werden, das bedeutet, dass von der 1. 4. Schulstufe die Operatoren „benennen“ und „beschreiben“ (Wie ist etwas?) im Vordergrund stehen,
+in der 5. -10. Schulstufe die Operatoren „erklären“, „bewerten“, „begründen“ (Warum ist etwas, wie
+es ist?) und ab der 10. Schulstufe soll der Operator „argumentieren“ (Warum lässt sich behaupten,
+warum etwas ist, wie es ist?) im Mittelpunkt stehen (vgl. Pohl 2010).
+Im folgenden Beispiel geht es darum, dass die SchülerInnen etwas „begründen“, der Operator
+„begründen“ wird jedoch nicht explizit verwendet.
+Diese Aufgabenstellung regt zu einer einfachen ja/nein-Antwort an, jedoch nicht dazu, eine
+Begründung zu liefern. Verwendet man hingegen den Operator „begründen“ in der
+Aufgabenstellung, so können die SchülerInnen klar erkennen, dass es in dieser Aufgabenstellung
+darum geht, kausale Zusammenhänge herzustellen:
+Durch die explizite Benennung des Operators „begründen“ wird den SchülerInnen deutlich gemacht,
+was mit dieser Aufgabenstellung von ihnen verlangt ist: Sie sollen eine Begründung dafür liefern,
+weshalb die genannten Aussagen für die lineare Funktion f zutreffen. Die Aufgabenlösung erfordert
+außerdem eine längere, zusammenhängende Äußerung und nicht bloß eine ja-nein-Antwort, sodass
+hier nicht nur Klarheit in Bezug auf die erwartete fachliche Lösung, sondern auch ein
+Sprachlernpotential geschaffen wird.
+OPERATOREN SOLLEN EXPLIZIT UND KORREKT EINGESETZT WERDEN.
+Treffen die vorliegenden Aussagen für eine homogene lineare Funktion f zu?
+(Mathematik, 9. Schulstufe)
+Begründe, warum folgende Aussagen für eine homogene lineare Funktion f zutreffen!
+26
+Operatoren sollen nicht nur explizit, sondern immer auch präzise und korrekt eingesetzt werden. Im
+folgenden Beispiel ist dies nicht der Fall:
+Im ersten Teil der Aufgabenstellung werden die SchülerInnen dazu aufgefordert, die Tiere
+miteinander zu vergleichen. Um einen Vergleich anzustellen, muss man jedoch zuerst die Unterschiede
+benennen. Dann erst kann man diese Unterschiede erklären. Eine Definition zu geben, ist hier streng
+genommen nicht sinnvoll bzw. dürfte vermutlich auch nicht gemeint sein.
+Im folgenden Beispiel werden die Operatoren „benennen“ und „erklären“ an Stelle von „definieren“
+verwendet, um mehr Klarheit hinsichtlich der Handlungsaufforderungen zu erreichen:
+Durch die Verwendung der Operatoren „benennen“ und „erklären“ können die geforderten Schritte
+der Problemlösung von den SchülerInnen besser erkannt werden: Zuerst sollen die Unterschiede
+zwischen der Masse von Vögeln und Säugetieren benannt werden, dann soll erklärt werden, warum
+die Masse jeweils unterschiedlich ist.
+Vergleiche die Masse der Vögel mit der Masse etwa gleich großer Säugetiere. Definiere, worin
+die Unterschiede bestehen!
+(Biologie, 5. Schulstufe)
+Vergleiche die Masse der Vögel mit der Masse etwa gleich großer Säugetiere. Benenne und
+erkläre die Unterschiede!
+(Biologie, 5. Schulstufe)
+27
+2.2. SATZEBENE
+a) KOMPLEXITÄT
+Ein allzu komplexer Satzbau kann das Aufgabenverständnis erschweren. Komplexe
+Satzkonstruktionen entstehen z. B. durch den Gebrauch von Klammerausdrücken, durch
+eingeschobene Teilsätze etc. Prinzipiell geht es jedoch nicht darum, Satzkomplexität in den
+Aufgabenstellungen gänzlich zu vermeiden, sondern vielmehr die SchülerInnen nach und nach mit
+schwierigeren Satzkonstruktionen vertraut zu machen.
+Sätze sind in Aufgabenstellungen daher so zu konstruieren, dass sie das Aufgabenverständnis nicht
+beeinträchtigen; jedoch die SchülerInnen schrittweise mit einem komplexeren Satzbau vertraut
+machen.
+Das folgende Aufgabenbeispiel könnte aufgrund der Satzkomplexität zu Verständnisschwierigkeiten
+führen:
+Durch die zahlreichen Einschübe (Klammerausdrücke, Nebensätze etc.) dürfte es den SchülerInnen
+schwer fallen, sich auf die wesentlichen Informationen dieser Aufgabe zu konzentrieren. Aufgrund
+des komplexen Satzbaus könnte es für sie schwierig sein zu erkennen, dass es hier primär um die
+Beschreibung der kontinentalen Veränderung geht. Der Satzbau dieser Aufgabenstellung könnte
+daher das Aufgabenverständnis erschweren.
+In der folgenden Aufgabenüberarbeitung sind die Sätze vereinfacht:
+DIE SATZKONSTRUKTIONEN SOLLEN IN IHRER KOMPLEXITÄT ANGEMESSEN SEIN.
+Kontinente einst - heute - zukünftig: Worin bestehen die auffälligsten Veränderungen, wenn man die
+heutige Verteilung der Kontinente (samt plattentektonischer Strukturen) mit der zukünftigen Situation in 50 Millionen Jahren - vergleicht? Die Verteilung der Kontinente - so wie wir sie heute kennen - hat
+sich im Laufe der Erdgeschichte häufig geändert (vgl. S. 127 – 132); Bewegungsanimationen (Lage
+der Kontinente während der verschiedenen Erdzeitalter) finden sich zudem im Internet unter
+www.erdplatten-bewegung-bio.at; stelle die Veränderungen von einst und heute fest.
+(Biologie, 10. Schulstufe)
+Die Verteilung der Kontinente hat sich im Laufe der Erdgeschichte häufig geändert. Genauere
+Informationen dazu findest du im Buch auf den Seiten 127-132 und auf der Internetseite
+www.erdplatten-bewegung-bio.at. Beantworte nun die folgenden Fragen:
+1. Wie waren die Kontinente mit ihren plattentektonischen Strukturen früher angeordnet?
+Stelle Vergleiche zur jetzigen Situation an!
+2. Wie werden sich die Kontinente in 50 Millionen Jahren verändern?
+28
+In dieser Aufgabenstellung werden keine allzu komplexen syntaktischen Strukturen verwendet.
+Erklärungen und Hilfestellungen werden zudem graphisch von den eigentlichen Arbeitsaufträgen
+getrennt, die Aufgabenstellung gliedert sich dadurch in ein Informations- und ein Handlungs- bzw.
+Fragefeld, was das Aufgabenverständnis zusätzlich erleichtern dürfte.
+b) SUBORDINATION
+Als Subordination werden untergeordnete Sätze (Relativsätze, Konditionalsätze, Konzessivsätze etc.)
+bezeichnet, die vom jeweiligen Hauptsatz abhängig sind. Zu häufige Subordinationen sollen
+vermieden werden, um Verständnisprobleme zu vermeiden.
+Im folgenden Aufgabenbeispiel führen die zahlreichen Nebensätze dazu, dass diese für die
+SchülerInnen schwer verständlich sein könnte:
+Die Einleitung mit der Konjunktion „dass“ im untergeordneten Satz ergibt einen allzu komplexen
+Satzbau. Auch der zweite Satz ist durch den eingeschobenen Relativsatz so komplex, dass er das
+Verständnis der Aufgabenstellung beeinträchtigen könnte.
+Im folgenden Beispiel werden komplexe Satzkonstruktionen zwar nicht gänzlich vermieden, sie
+werden jedoch so dosiert eingesetzt, dass sie das Aufgabenverständnis nicht beeinträchtigen sollten:
+ZU HÄUFIGE SUBORDINATIONEN SOLLEN VERMIEDEN WERDEN.
+Dass der vorliegende Text eine zusammenhängende Erzählung ist, stellst du vermutlich erst beim
+zweiten Durchlesen fest. Die Satzglieder, welche im Text anzufinden sind, sind dabei nicht schlau
+angeordnet. Vertausche sie so, dass die Sätze besser aneinandergefügt sind! (Deutsch, 5. Schulstufe)
+Die folgende Erzählung ist durch die Art und Weise, wie die Satzglieder angeordnet sind, schwer zu
+verstehen. Vertausche die Satzglieder so, dass der Text besser verständlich wird!
+29
+c) VOLLSTÄNDIGKEIT UND EXPLIZITHEIT
+Aufgabenstellungen sollen so explizit formuliert sein, dass die SchülerInnen genau wissen, was von
+ihnen verlangt wird. Der Satz im folgenden Beispiel ist unvollständig und daher auf der Satzebene
+nicht klar und ausführlich genug:
+Die Handlung, zu der die SchülerInnen hier aufgefordert werden, wird in diesem Satz nicht explizit
+benannt. Dadurch wird den Lernenden nicht deutlich gemacht, was die Aufgabenstellung bezweckt.
+Die beiden Wortgruppen sind inhaltlich zudem nicht nchvollziehbar aufeinander bezogen: Es ist
+unklar, ob sich der zweite Satzteil („kurz wiederholt“) auf die Raubkatzen, auf den nachfolgenden
+Text oder auf die geforderte Lernaktivität bezieht. Darüber hinaus ist die Aufgabenstellung
+elliptisch, d. h. auf syntaktischer Ebene unvollständig. Eine explizite, vollständige Formulierung dieser
+Aufgabenstellung könnte lauten:
+In dieser Aufgabenstellung werden die geforderten sprachlich-kognitiven Handlungen (lesen,
+relevante Informationen erkennen bzw. unterstreichen und zusammenfassen) explizit durch die Verben
+„lesen“, „unterstreichen“ und „schreiben“ benannt. Die Sätze sind zudem vollständig und es werden
+konkrete, aufeinander aufbauende Arbeitsschritte genannt, die die SchülerInnen dabei anleiten,
+Schritt für Schritt zur geforderten Aufgabenlösung zu gelangen.
+Aufgabenstellungen in Schulbüchern sollten daher syntaktisch explizit und das heißt auch vollständig
+sein, damit SchülerInnen in der Lage sind, sie zu verstehen.
+Auch in der folgenden Aufgabenstellung zeigen sich in dieser Hinsicht Schwächen:
+Es ist nicht klar, was von den SchülerInnen hier genau gefordert ist. Zum einen deshalb, weil die
+Aufforderung „Zähl“ unpräzise ist und keine eindeutige Auskunft dahingehend gibt, welche
+DIE SÄTZE SOLLEN EXPLIZIT UND VOLLSTÄNDIG SEIN.
+Die größten Raubkatzen der Welt – kurz wiederholt.
+(Biologie, 5. Schulstufe)
+Lies den Text „Die größten Raubkatzen der Welt“ genau durch! Unterstreiche die wichtigsten
+Informationen in diesem Text und schreibe eine kurze Zusammenfassung.
+Zähl: Wie häufig mal 10?
+(Mathematik, 4. Schulstufe)
+30
+Rechenoperationen („multiplizieren“, „dividieren“) durchzuführen sind, zum anderen auch, weil die
+Fragestellung syntaktisch unvollständig ist und damit die Problemstellung der Aufgabe nicht klar
+benannt ist, so fehlt etwa ein Finalsatz, der darüber Auskunft geben könnte.
+Die Aufgabenstellung könnte wie folgt umformuliert werden:
+Durch die syntaktisch explizite Struktur der Aufgabenstellung wird nun auch der Arbeitsauftrag, eine
+Zahl zu finden, die mit 10 multipliziert 100 ergibt, klar gemacht.
+Wie oft muss man 10 multiplizieren, damit man 100 erhält?
+31
+2.3. TEXTEBENE
+a) KOHÄSIONSMITTEL
+Kohäsionsmittel dienen dazu, Wörter bzw. Informationen zu verknüpfen. Sie tragen wesentlich dazu
+bei, dass die Sätze in einem Text nachvollziehbar miteinander verbunden sind.
+In der folgenden Aufgabenstellung liegt keine Verknüpfung der Sätze bzw. der einzelnen
+Informationen durch Kohäsionsmittel vor:
+Da eine Wiederaufnahme des Begriffs „Schichten“ im ersten Satz fehlt, wird nicht klar, worauf sich
+die „4“ bezieht. Auch im zweiten Satz wird nicht deutlich, wofür eine Formel angegeben werden soll
+bzw. worauf sich der Wachstumszusammenhang bezieht. Weiters wird auch im letzten
+Arbeitsauftrag („Prüfe!“) aufgrund fehlender Textverknüpfungsmittel nicht sofort ersichtlich, was
+überprüft werden soll. Durch eine Verwendung von Kohäsionsmitteln kann die Aufgabenstellung in
+ihrem inhaltlichen Zusammenhang besser verdeutlicht werden:
+In diesem Beispiel werden zahlreiche Kohäsionsmittel verwendet, die die Informationen
+nachvollziehbar miteinander verknüpfen: Rekurrenz („Blatt“, „Schichten“, „Papier“, „Faltungen“,
+„falten“), Proform („Papier“ – „es“; „Wachstumszusammenhang“ – „diesen“, „ein Blatt falten“ –
+„dadurch“, „Faltungen“ – „daraus“), Substitution („ein Wachstumszusammenhang“ – „das Wachstum“)
+ES SOLLEN GEEIGNETE KOHÄSIONSMITTEL VERWENDET WERDEN, DIE DIE SÄTZE LOGISCHSCHLÜSSIG MITEINANDER VERBINDEN.
+Ein Blatt Papier wird einmal gefaltet, es ergeben sich zwei Schichten, beim zweiten Mal 4. Gib eine
+Formel an und stelle den Wachstumszusammenhang grafisch dar. Es wird behauptet, dass man
+Papier, unabhängig von Größe und Dicke, nur siebenmal falten kann. Prüfe!
+(Mathematik, 8. Schulstufe)
+1. Formel finden: Wenn man ein Blatt Papier ein Mal faltet, dann erhält man dadurch 2
+Schichten. Faltet man das Blatt nochmals, so ergeben sich bereits 4 Schichten. Daraus ergibt
+sich ein Wachstumszusammenhang zwischen der Anzahl der Faltungen und der Schichten.
+Stelle diesen Wachstumszusammenhang in einer Formel dar, die angibt, wie viele Schichten
+bei einer bestimmten Anzahl von Faltungen entstehen! Anhand dieser Formel soll das
+Wachstum bei weiteren Faltungen berechnet werden.
+2. Faltvorgang überprüfen: Es wird behauptet, dass Papier, unabhängig von Größe und Dicke,
+nur siebenmal gefaltet werden kann. Probiere das Papier so oft wie möglich zu falten und
+versuche herauszufinden, ob das stimmt.
+(Mathematik, 8. Schulstufe)
+32
+bzw. die Wiederaufnahme eines unbestimmten Artikels durch einen bestimmten Artikel („ein Blatt“ –
+„das Blatt“), wodurch auf bereits Bekanntes verwiesen wird.
+Darüber hinaus wird die Aufgabe in zwei Arbeitsaufträge gegliedert (Formel finden, Faltvorgang
+überprüfen), sodass der Text nicht zu lang und die Problemstellung übersichtlicher wird.
+b) INFORMATIONEN
+Aufgabenstellungen können vor allem dann gut bewältigt werden, wenn die wichtigsten
+Informationen und Hilfsmittel zur Lösung explizit angeführt werden. Geschieht dies nicht, kann das
+Lösen der Aufgabe schwierig werden. Die folgende Aufgabenstellung ist ein Beispiel dafür:
+In diesem Beispiel wird weder darauf verwiesen, wo man Informationen zur Pflanzenwelt in
+Österreich erhält, noch auf welcher Karte man den Laub- und Nadelwaldgürtel einzeichnen soll. Um
+eine zielführende Aufgabenlösung zu unterstützen, sollen alle dazu notwendigen Informationen und
+auch Hinweise auf erforderliche Materialien gegeben werden.
+In der folgenden Aufgabenstellung wird darauf geachtet - zusätzlich werden den SchülerInnen
+Lernstrategien wie das Arbeiten mit dem Schulatlas empfohlen:
+c) ARBEITSSCHRITTE
+Sind innerhalb einer Aufgabenstellung mehrere Arbeitsaufträge zu erledigen, so sollten diese in
+einer logisch-nachvollziehbaren Reihenfolge angeführt werden. Ist dies nicht der Fall, so könnte es zu
+ES SOLLEN ALLE INFORMATIONEN ANGEFÜHRT WERDEN, DIE FÜR DIE LÖSUNG DER
+AUFGABENSTELLUNG NOTWENDIG SIND.
+DIE EINZELNEN ARBEITSSCHRITTE SOLLEN IN EINER NACHVOLLZIEHBAREN, SINNVOLLEN
+REIHENFOLGE ANGEGEBEN WERDEN.
+Zeichne den Laubwaldgürtel und den Nadelwaldgürtel ein! Welche Regionen haben daran Anteil?
+(Geographie, 5. Schulstufe)
+Suche in deinem Schulatlas eine Landkarte, in der Österreichs Pflanzenwelt (Flora) dargestellt wird.
+Zeichne mithilfe dieser Landkarte die Laubwälder und Nadelwälder in die Abbildung im Schulbuch
+ein. Benenne dann die Regionen Österreichs, in denen Laub- und Nadelwälder vorkommen.
+33
+Unklarheiten bzw. zu einer Überforderung der SchülerInnen kommen. Darüber hinaus soll die Anzahl
+der angeführten Arbeitsschritte überschaubar bleiben.
+Im folgenden Beispiel werden SchülerInnen mit Arbeitsaufträgen überhäuft und es fehlt eine klare
+Angabe hinsichtlich der Reihenfolge, in der diese zu erledigen sind:
+In diesem Beispiel ist nicht klar, was von den SchülerInnen genau gefordert ist und es wird keine
+aufeinander aufbauende Reihenfolge der Arbeitsschritte (Reden, Zuhören, Markieren, Schreiben,
+Ausmalen) angegeben.
+Im folgenden Beispiel werden die einzelnen Arbeitsschritte klar benannt, voneinander abgesetzt und
+in eine schlüssige Reihenfolge gebracht:
+In dieser Überarbeitung der Aufgabe bauen die einzelnen Arbeitsschritte nachvollziehbar
+aufeinander auf: Die Kinder sollen zunächst die Wörter lesen und sich selbst dabei zuhören, dann
+sollen sie die Wörter ins Heft schreiben, weiters den ersten Buchstaben von jedem Wort farbig
+markieren und schließlich Silbenbögen zu den Wörtern zeichnen. Es geht somit zunächst um das
+Verbalisieren, dann um das Verschriftlichen und schließlich um das Analysieren. Damit verbunden sind
+zunehmend höhere sprachlich-kognitive Anforderungen, die von den SchülerInnen schrittweise
+bewältigt werden können.
+Lies langsam und deutlich! Hör gut zu! Zeichne die Silbenbögen! Suche die Klangbuchstaben und
+bemale sie!
+(Deutsch,1. Schulstufe)
+1. Lies die Wörter langsam, laut und deutlich vor!
+2. Schreibe die Wörter in dein Heft!
+3. Male den ersten Buchstaben (Klangbuchstaben) mit Farbe an!
+4. Zeichne zu den einzelnen Wörtern Silbenbögen!
+34
+2.4. VISUELLE EBENE
+a) ÜBERSCHRIFTEN, RANDNOTIZEN
+Durch Überschriften bzw. optische Hervorhebungen wie Fettdruck, Farbdruck, Merkkästen o. ä.
+können die SchülerInnen auf wichtige Wörter bzw. Informationen einer Aufgabenstellung
+aufmerksam gemacht werden. So kann etwa durch Überschriften das Vorwissen der SchülerInnen
+aktiviert und Erwartungshaltungen erzeugt werden, die das inhaltliche Verständnis der Aufgabe
+erleichtern; durch Fett- oder Farbdruck von Schlüsselwörtern können die SchülerInnen inhaltlich
+relevante Wörter und Informationen im Text auf einen Blick erkennen. Kästchen, in denen wichtige
+Begriffe hervorgehoben bzw. erklärt werden, dienen dazu, wesentliche Begriffe und Inhalte rasch zu
+erfassen.
+Im folgenden Beispiel finden keine derartigen Visualisierungen statt:
+Durch die fehlende visuelle Hervorhebung von Schlüsselinformationen
+durch Überschriften, Fett- oder Farbdruck, Begriffserklärungen bzw.
+Definitionen in Kästchen wird auf eine wesentliche Verstehenshilfe für die
+SchülerInnen verzichtet: Sie müssen die wesentlichen Informationen erst
+selbst entschlüsseln und Begriffserklärungen möglicherweise erst finden.
+Im folgenden Beispiel werden zentrale Informationen visuell durch eine
+Überschrift, Farbdruck und einen Merkkasten hervorgehoben:
+WICHTIGE WÖRTER BZW. INFORMATIONEN SOLLEN VISUELL HERVORGEHOBEN WERDEN.
+*Nestflüchter:
+Jungtiere, die weit
+entwickelt zur Welt
+kommen und sich
+bereits kurz nach
+der Geburt oder dem
+Schlüpfen allein in
+der Welt
+zurechtfinden
+können.
+*Nesthocker:
+Jungtiere, die nach
+der Geburt oder dem
+Schlüpfen längere
+Zeit im Nest bleiben;
+werden meist nackt
+und blind geboren.
+Erstelle eine Tabelle im Heft, in der du folgende Vögel in Nestflüchter und Nesthocker unterteilst:
+Im Internet findest du unter http://biologie-nesthocker-nestflüchter.at Hilfe: Hühner, Störche, Enten,
+Sperlingsvögel, Kraniche, Spechte, Eulen, Reiher und Papageien.
+(Biologie, 5. Schulstufe)
+EINTEILUNG IN NESTFLÜCHTER UND NESTHOCKER
+Erstelle eine Tabelle im Heft, in der du folgende Vögel in Nestflüchter*
+und Nesthocker* unterteilst: Hühner, Störche, Enten, Sperlingsvögel,
+Kraniche, Spechte, Eulen, Reiher und Papageien.
+Internetlink: Hilfe findest du im Internet unter dem Link: http://biologienesthocker-nestflüchter.at.
+(Biologie, 5. Schulstufe)
+35
+Da die wichtigsten Fachbegriffe sowohl im Text als auch im Kästchen einheitlich in derselben Farbe
+erfolgen, wird die Aufmerksamkeit auf diese Begriffe gelenkt; dadurch können Zuordnungen
+schneller hergestellt und die angegebenen Erklärungen rasch genutzt werden.
+b) AUFZÄHLUNGEN, ABSÄTZE
+Besteht eine Aufgabenstellung aus mehreren Arbeitsaufträgen, so ist es hilfreich, wenn diese durch
+Absätze, Aufzählungen o. ä. voneinander getrennt werden. Durch Absätze können inhaltlich
+zusammengehörende Informationen deutlich gemacht und voneinander abgegrenzt werden.
+Aufzählungen (durch Zahlen, Punkte etc.) haben ebenfalls die Funktion, Informationen klar zu
+umreißen, voneinander zu trennen bzw. in eine bestimmte Abfolge zu bringen.
+Im folgenden Beispiel ist keine visuelle Gliederung von Informationen erfolgt:
+Durch das Fehlen von Aufzählungszeichen und Absätzen wird nicht klar, ob man die einzelnen
+Arbeitssaufträge nacheinander oder in beliebiger Reihenfolge abarbeiten soll. Der ungegliederte
+Textfluss könnte zudem demotivierend wirken, da sich die SchülerInnen durch die hohe Anzahl von
+unterschiedlichen Arbeitsschritten überfordert fühlen könnten.
+In der folgenden Aufgabenüberarbeitung wird durch Aufzählungszeichen deutlich gemacht, in
+welcher Reihenfolge die einzelnen Schritte durchgeführt werden sollen. Dadurch werden diese
+optisch klar voneinander getrennt und somit auch überschaubarer. Durch eine Hervorhebung der
+jeweiligen Aktivitäten (Farbdruck) wird den SchülerInnen klar gemacht, was sie jeweils tun sollen.
+ZUSAMMENGEHÖRIGE INHALTE BZW. INFORMATIONEN SOLLEN IN IHREM ZUSAMMENHANG
+VERDEUTLICHT WERDEN.
+Lies den Text und verschaff dir einen Überblick! Stelle Fragen an den Text! Werden sie im Text
+beantwortet? Lies den Text noch einmal genauer durch! Unterstreiche mit einem Farbstift alle
+wichtigen Wörter! Unterstreiche mit Bleistift alle unbekannten Wörter. Schreibe die wichtigsten
+Informationen in einer verständlichen Sprache heraus! Gliedere den Text durch Überschriften,
+Farbmarkierungen usw.!
+(Deutsch, 8. Schulstufe)
+36
+Verstehen eines Sachtextes
+1. Schritt: „überfliegendes“ Lesen –> Verschaffe dir einen Überblick über das Thema des Textes.
+2. Schritt: Fragen an den Text stellen –> Stelle Fragen an den Text, die der Text beantwortet.
+3. Schritt: gründliches, selektives Lesen –> Lese den Text nochmals und hebe wichtige Informationen
+hervor (durch einen Farbstift, durch Unterstreichungen, etc.).
+4. Schritt: Suchen unbekannter Informationen -> Unterstreiche alle unbekannten Wörter im Text und
+versuche Sie gemeinsam mit anderen zu klären.
+5. Schritt: den Text mit eigenen Worten zusammenfassen -> Fasse die wichtigsten Informationen im
+Text mit eigenen Worten zusammen. Achte auf eine einfache, gut verständliche Sprache.
+6. Schritt: Gliedern des Textes –> Gliedere den Text durch Überschriften, Absätze etc. und hebe
+wichtige Informationen hervor (durch Farben, Unterstreichungen etc.).
+(Deutsch, 8. Schulstufe)
+37
+III. GLOSSAR
+ALLTAGSWORTSCHATZ: Wörter und Wendungen, die vor allem in der Alltagskommunikation
+verwendet werden.
+ERSTSPRACHE: Als Erstsprache (L1) wird jene Sprache bezeichnet, in der ein Kind hauptsächlich
+aufwächst, mit der es sich identifiziert und in der es die höchste Kompetenz hat.
+FACHWÖRTER: Ein Fachwort ist eine Bezeichnung für einen Begriff, der in einem Fach verwendet
+wird und dort eine spezielle Bedeutung hat.
+FACHWORTSCHATZ: Wörter und Wendungen, die in der Fachkommunikation innerhalb eines
+Fachgebiets verwendet werden.
+FUNKTIONSWÖRTER: Bezeichnung für Wörter, die primär grammatikalische Bedeutung tragen und
+vor allem syntaktische Funktionen erfüllen.
+HYPOTAXE: Unterordnung zwischen Teilsätzen (auch „Schachtelsatz“), meist durch Konjunktionen wie
+„weil“, „oder“, „der“, „welcher“ etc. realisiert.
+KOMPOSITUM: (lat. componere: zusammensetzen) zusammengesetztes Wort, das zumindest aus zwei
+frei vorkommenden Wörtern (Grundwort, Bestimmungswort) besteht (z. B. Apfelbaum, Baumkrone).
+KOHÄRENZ: Unter Kohärenz versteht man den inhaltlichen Gesamtzusammenhang einer sprachlichen
+Äußerung bzw. eines Textes.
+KOHÄSION: Textzusammenhang, der durch formale Mittel der Grammatik auf der Textoberfläche
+erzeugt wird (z. B. durch Rekurrenzen, Proformen etc.).
+KOHÄSIONSMITTEL: Kohäsionsmittel sind sprachliche Mittel, die dazu dienen, Wörter bzw.
+Informationseinheiten auf der Textoberfläche zu verknüpfen.
+KONNEKTIVE: Konnektive sind sprachliche Elemente mit satzverknüpfender Funktion, z. B.
+Konjunktionen (weil, deshalb, daher etc.)
+LEXIK: Als Lexik (Wortschatz) bezeichnet man die Gesamtmenge aller Wörter einer Sprache.
+NOMINALISIERUNG: Unter Nominalisierung versteht man jede Ableitung von Nomen (Substantiven)
+aus anderen Wortarten, z. B. aus Verben (schimpfen - das Schimpfen) oder Adjektiven (z. B. schön –
+das/die Schöne).
+OPERATOREN: Operatoren sind im hier verwendeten Sinne Verben, die sprachliche Handlungen
+bezeichnen (z. B. benennen, erklären, begründen).
+PARATAXE: Koordination bzw. Gleichordnung von Sätzen, meist durch Konjunktionen wie „und“,
+„oder“ bzw. eine unverbundene Aneinanderreihung von sprachlichen Elementen im Satz realisiert.
+PRÄPOSITION: Präpositionen sind sprachliche Elemente, die Beziehungen zwischen Elementen
+hinsichtlich Lokalität (auf, unter etc.), Temporalität (während, zwischen etc.) etc. bezeichnen.
+PRODUKTIVER WORTSCHATZ: Der produktive Wortschatz ist jener Wortschatz, den ein
+Sprecher/eine Sprecherin aktiv verwenden kann (-> aktiver Wortschatz).
+38
+PROFORMEN: weitgehend inhaltsleere sprachliche Elemente, mit denen auf ein Bezugselement im
+Text verwiesen wird; dazu zählen Pronomina, Adverbia (dort, da etc.), Pronominaladverbien (womit,
+wobei etc.) bzw. Demonstrativpronomina.
+REKURRENZEN: Wiederaufnahme eines bereits eingeführten Wortes oder einer Wortgruppe im
+nachfolgenden Text (z. B. Ball – Ball).
+REZEPTIVER WORTSCHATZ: Der rezeptive Wortschatz umfasst jene Wörter und Wendungen, die
+zwar verstanden, aber nicht aktiv beherrscht werden (auch: passiver Wortschatz).
+SUBORDINATION: ein Verhältnis der Unterordnung zwischen einzelnen Elementen im Satz, z. B.
+zwischen Prädikat und Objekt oder zwischen Hauptsatz und Nebensatz
+SUBSTITUTION: Wiederaufnahme eines bereits eingeführten Wortes durch ein inhaltlich
+verbundenes Wort im nachfolgenden Text (z. B. durch Oberbegriffe wie die Birke – der Baum).
+SYNTAX: Als Syntax bezeichnet man die Lehre von der Anordnung und Beziehung von Wörtern und
+Satzgliedern in einem Satz (-> Satzlehre).
+ZWEITSPRACHE: Als Zweitsprache bezeichnet man jene Sprache, die ein Mensch neben der
+Erstsprache (L1) beherrscht. Die Zweitsprache wird in Migrationskontexten größtenteils ungesteuert
+im Alltag erworben und in der Schule weiterentwickelt und dient zur Befriedigung unmittelbarer
+kommunikativer Bedürfnisse, aber auch zum Wissenserwerb in Bildungsinstitutionen (z. B. in der
+Schule) sowie insgesamt zur politischen, wirtschaftlichen und sozialen Teilhabe in einer Gesellschaft.
+WELTWISSEN: das Weltwissen umfasst außersprachliche Wissensbestände, z.B. das Alltagswissen
+(z.B. das Wissen, wie ein Apfel aussieht) oder das individuelle Erfahrungswissen
+Die Begriffserklärungen sind überwiegend angelehnt an bestehende Definitionen und Erklärungen
+wie sie in gängigen Lexika und Einführungen zur Sprachwissenschaft verwendet werden (z.B. in
+Bußmann 1990, Linke/Nussbaumer/Portmann 1996). Um sie einem Laienpublikum verständlich zu
+machen, wurden sie mehrheitlich vereinfacht.
+39
+IV. LITERATURVERZEICHNIS
+AHRENHOLZ, Bernt, (2010) (Hrsg.): Bildungssprache im Sachunterricht der Grundschule, in: DERS.:
+Fachunterricht und Deutsch als Zweitsprache. Tübingen: Narr Verlag. S. 15-37.
+AHRENHOLZ, Bernt (2010) (Hrsg.): Fachunterricht und Deutsch als Zweitsprache. Tübingen: Narr Verlag.
+APELTAUER, Ernst (2008): Wortschatzentwicklung und Wortschatzarbeit, in: AHRENHOLZ, Bernt/Ingelore
+OOMEN-WELKE (Hrsg.): Deutsch als Zweitsprache. Baltmannsweiler: Schneider Hohengehren. S. 239-252.
+BUSSMANN, Hadumond (1990): Lexikon der Sprachwissenschaft. Kröner Verlag.
+CUMMINS, Jim (1979): Cognitive/academic language proficiency, linguistic interdependence, the optimum
+age question and some other matters, in: Working Papers on Bilingualism (Travaux de recherches sur le
+bilinguisme) 19. S. 197–205.
+DROSDOWKSI, Günter (1984): Duden Grammatik. 4. Aufl., Mannheim u.a.: Dudenverlag.
+GASTEIGER-KLICPERA, Barbara/ KLICPERA, Christian/ SCHABMANN, Alfred (2010): Legasthenie - LRS:
+Modelle, Diagnose, Therapie und Förderung. Stuttgart: UTB.
+FEILKE, Helmuth (2010): Schulsprache – Wie Schule Sprache macht, in: Susanne Günthner u.a. (Hg.):
+Kommunikation und Öffentlichkeit - Sprachnormen in der Diskussion. (Reihe RGL) (deGruyter) Berlin/New York.
+GRIESSHABER, Wilhelm (2009): L2- Kenntnisse und Literalität in frühen Lernertexten, in: AHRENHOLZ, Bernt
+(Hrsg.): Empirische Befunde zu DaZ-Erwerb und Sprachförderung. Beiträge aus dem 3. Workshop für Kinder
+mit Migrationshintergrund. Freiburg im Breisgau: Fillibach. S. 115 – 135.
+GOGOLIN, Ingrid et al. (2004): Mathematiklernen im Kontext sprachlich-kultureller Diversität. Abschlussbericht
+eines DFG-Projekts.
+LANGER, Elisabeth (2010): Grafische und mathematische Darstellungen im Naturwissenschaftsunterricht „lesen“
+und verstehen, in: AHRENHOLZ, Bernt (Hrsg.): Fachunterricht und Deutsch als Zweitsprache. Tübingen: Narr
+Verlag.
+LENZEN, Andreas (1999): Präsentieren-Moderieren. Berlin: Cornelsen.
+LINKE, Angelika/NUSSBAUMER, Markus /PORTMANN Paul R. (1996): Studienbuch Linguistik. Tübingen:
+Niemeyer. (=Reihe Germanistische Linguistik 121)
+POHL, Thorsten (2010): Sekundäre Literalisierung. (Vortrag: DIES Summerschool 2010, Graz)
+PORTMANN-TSELIKAS, Paul R. (2002): Textkompetenz und unterrichtlicher Spracherwerb, in: Ders./ Sabine
+Schmölzer-Eibinger (Hg.): Textkompetenz. Neue Perspektiven für das Lernen und Lehren. S. 13–44. Innsbruck:
+StudienVerlag.
+RÖSCH, Heidi (2010): DaZ im Literaturunterricht, in: AHRENHOLZ, Bernt, (Hrsg.): Fachunterricht und Deutsch als
+Zweitsprache. Tübingen: Narr. S. 15-37.
+SCHMÖLZER-EIBINGER, Sabine (2008), Lernen in der Zweitsprache. Grundlagen und Verfahren der
+Förderung von Textkompetenz in mehrsprachigen Klassen. 2. Aufl. Tübingen: Narr.
+STÄUDEL, Lutz/FRANKE-BRAUN, Gudrun/PARCHMANN, Ilka (2008): Sprache, Kommunikation und
+Wissenserwerb im Chemieunterricht, in: Naturwissenschaften im Unterricht Chemie, 19. Jg., Heft 106/107. S.410.

@@ -1,0 +1,941 @@
+A. Sprachbildend bearbeitete Aufgabe
+1. Lernsituation / Arbeitsauftrag
+Die folgende Abbildung dient der Veranschaulichung der Situation und wird für alle
+gut einsehbar an die Wand projiziert sowie auf das Arbeitsblatt kopiert.
+Quelle: Praxis der Mathematik in der Schule 52 (36) (2010), Abbildung 1 (hier in der Online-Version, verfügbar unter
+http://www.mathematik.uni-dortmund.de/~prediger/veroeff/10-Marxer_Prediger_Schnell_PM-H36-Webversion.pdf
+[letzter Aufruf: 09.09.2016, S. 2].
+Explikation der
+Lernsituation und
+Fettdruck relevanter
+Informationen zur
+Bearbeitung
+der Aufgabe
+Konkretisierung des
+Arbeitsauftrages,
+Markierung der
+intendierten
+Schüler/-innenhand
+lung, Fettdruck und
+Unterstreichung
+relevanter Informationen zur
+Aufgabenbearbeitung
+Arbeitsauftrag:
+Für das abgebildete Haus sollen die Müllgebühren von 750€ aufgeteilt werden.
+Schreibe auf, wie die Müllgebühren möglichst gerecht verteilt werden können.
+Lernsituation:
+In einem Mehrfamilienhaus fallen Müllgebühren von insgesamt 750 € an. Das
+Haus besteht aus fünf Wohnungen unterschiedlicher Größe, in denen insgesamt
+11 Erwachsene und vier Kinder leben.
+B ERECHNUNG DER M ÜLLKOSTEN
+2. Wortschatz und diskursive Redemittel als Unterstützung und
+Begleitung der einzelnen Teilaufgaben
+2.1 WORTSCHATZ ZUR AUFGABENBEARBEITUNG
+2.2 DISKURSIVE REDEMITTEL
+Nachfragen
+ Warum hast du …
+ Wie kommt/kann …
+ Warum soll/muss …
+ Glaubst du, dass …
+ Wie kommst du darauf, dass …
+ Wie ist das zu verstehen?
+ Ich möchte gerne wissen, ob/wie …
+Zustimmung
+ Mir gefällt …
+ Es ist schön …
+ Am stärksten wirkt …
+ Ich finde die Lösung/den Vorschlag gut/gerecht, weil/da/wenn …
+ Ich finde es gerecht, wenn/da/weil…
+ Ich finde es genauso gerecht, wenn/da/weil/obwohl …
+ Ich sehe das genauso.
+ Mich überzeugt …
+ Am überzeugendsten finde ich …
+Das sprachliche Material
+wird vor der Bearbeitung
+der Aufgabe eingeführt
+und besprochen. Es
+unterstützt die sprachliche
+und fachliche Rezeption
+der Aufgabe und liefert
+Anregungen sowie
+Hilfestellungen für die
+Textproduktion.
+Unterstützung der
+Kommunikationsprozesse
+der Schülerinnen und
+Schüler
+Mittel zum
+Nachvollziehen
+individueller
+Modellierungsvorschläge
+der Schülerinnen
+und Schüler
+affirmative Redemittel
+zum Austausch über
+Lösungswege
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 3
+B ERECHNUNG DER M ÜLLKOSTEN
+4 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+Ablehnung
+ Es kann nicht sein, dass …
+ Ich glaube nicht, dass …
+ Du hast nicht recht, weil …
+ Das kann nicht sein, weil/da/denn …
+ Das sehe ich anders.
+ Das sehe ich nicht so.
+ Das geht/funktioniert nicht.
+ Ich finde es nicht gerecht, wenn/da/weil
+ Damit kann ich nichts anfangen, weil/da/denn …
+ Das hat mich nicht angesprochen, weil/da/denn …
+ Dem muss ich wiedersprechen.
+ Mich überzeugt nicht …
+ Das stimmt (so) nicht (ganz).
+Zweifel
+ Da bin ich gestolpert.
+ Ich habe Mühe mit dem Satz …
+ Könnte man auch …
+ Hier melden sich bei mir Zweifel.
+ Stellst du dir vor, dass …
+ Ich frage mich, ob …
+ Ich bin nicht sicher, ob …
+ Ich kann nicht ganz nachvollziehen, wie/ob …
+ Wichtiger ist doch …
+ Könntest du dir vorstellen, dass …
+ Hier fehlt mir …
+ Ich bin überrascht, wie/dass …
+ Es wundert mich, wie/dass…
+ Ich bezweifle, dass …
+ Ich verstehe nicht ganz, warum …
+Redemittel zum
+Artikulieren
+von Kritik
+Redemittel zur
+Formulierung von
+Zweifel sowie zur
+Benennung von
+Unklarheiten
+B ERECHNUNG DER M ÜLLKOSTEN
+B. Fachdidaktische und sprachbildende Erläuterungen
+1. Zur Auswahl der Aufgabe
+Diese Aufgabe repräsentiert einen innovativen Typus: Sie inspiriert durch das offene Format und die
+Einbindung außermathematischer Faktoren zu alternativen Lösungen und ermöglicht eine Vielzahl
+bildungswirksamer fachlicher und sprachlicher Erfahrungen (siehe dazu Abschnitt 3.). Die Aufgabe
+bietet weiterhin die Chance einer Bearbeitung durch alle Schülerinnen und Schüler unabhängig von
+ihrem mathematischen Leistungsstand und ihre Einbindung in mathematische Kommunikations- und
+Argumentationssituationen. Dies bestätigen die schulischen Erprobungen. Hierbei zeigte sich auch
+eine überdurchschnittliche Motivation, deren Indiz ein reger Austausch nahezu aller Schülerinnen
+und Schüler in allen Kommunikationssituationen war. Obwohl davon auszugehen ist, dass Schülerinnen und Schüler mit dem alltagssprachlichen Problem der Müllkostenberechnung noch nicht
+konfrontiert gewesen sind, scheint in dieser Aufgabe ein Interesse angelegt zu sein, die eigene
+erarbeitete Position argumentativ zu stützen und durchzusetzen. Alle Rückmeldungen aus den
+Fachdidaktiken, von Studierenden, Schülerinnen und Schülern sowie Lehrpersonen zur fachlichen,
+fachdidaktischen sowie sprachbildenden Eignung der überarbeiteten Aufgabe waren äußerst positiv
+und motivieren ihren Einsatz in der Lehrkräftebildung und der Schule.
+2. Kontext und Aufbau
+Die kalkulierten zwei Unterrichtsstunden sind in ein Ich – Du – Wir – Lernarrangement gebettet. Sie
+stehen am Anfang einer 10- bis 12-stündigen Unterrichtsreihe und werden in einem Klassenraum
+umgesetzt. Nach einer gemeinsamen Einstiegsphase bearbeiten die Schülerinnen und Schüler die
+Aufgabe zunächst schriftlich für sich und tauschen sich dann mit dem Nachbarn darüber aus.
+Anschließend kommen Kleingruppen mit vier bis sechs Schülerinnen und Schülern zusammen, um
+argumentativ eine gemeinsame Lösung zu finden und zu verschriftlichen. Abschließend präsentieren
+sie die jeweiligen Gruppenergebnisse und rekapitulieren ihre mündliche argumentative Auseinandersetzung mit den einzelnen Lösungsvorschlägen.
+In den einzelnen Arbeitsphasen erfolgen die Aufgabenbearbeitung und ein damit verbundener Lernprozess weitgehend selbstgesteuert und selbstverantwortlich. Der Lehrkraft kommt eine vor allem
+beratende Funktion zu. In Abhängigkeit vom Kompetenzniveau der Lernenden unterstützt sie mehr
+oder weniger instruierend, gibt zielfördernde Hinweise und zusätzlichen Input. Ihr obliegt auch das
+Zeitmanagement innerhalb der einzelnen Bearbeitungsschritte.
+2.1 Übersicht zu den einzelnen Teilaufgaben
+Die Aufgabe „Müllkosten berechnen“ besteht aus vier Teilaufgaben. Die Untergliederung in Teilaufgaben integriert unterschiedliche Sozialformen und unterstützt mit diesem kleinschrittigen Vorgehen
+die Umsetzung des Modellierungsprozesses.
+Teilaufgaben möglicher Unterrichtsverlauf
+I. Klärung der
+Aufgabenstellung
+Die Lehrperson stellt die Aufgabe vor, bespricht die Herausforderung
+einer gerechten Verteilung als Berechnungsgrundlage, erläutert die
+Teilaufgaben I.-IV. und führt den zur Bearbeitung der einzelnen
+Teilaufgaben notwendigen oder fakultativen Wortschatz sowie
+diskursive Mittel zur Unterstützung des argumentativen Austauschs
+ein.
+II. Lösungsmodellierung in
+Einzel- und Partnerarbeit
+Die Schülerinnen und Schüler erstellen und verschriftlichen je nach
+Kompetenzniveau einen Algorithmus bzw. einen Lösungsvorschlag.
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 5
+B ERECHNUNG DER M ÜLLKOSTEN
+6 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+Teilaufgaben möglicher Unterrichtsverlauf
+III. Argumentativer
+Austausch über die
+Lösungsansätze in
+Kleingruppen und Erstellen
+von Lernplakaten
+Die Schülerinnen und Schüler stellen sich gegenseitig ihre
+Lösungsvorschläge vor, begründen argumentativ ihre
+Berechnungsgrundlage für eine möglichst gerechte Verteilung und
+einigen sich auf eine Lösung, die als die gerechteste angesehen wird;
+die Lösung sowie ggf. alternative Ansätze und Argumente werden auf
+einem Lernplakat festgehalten.
+IV. Präsentation im Plenum Der argumentative Diskurs sowie die Einigung auf eine gerechte
+Lösung innerhalb der einzelnen Gruppen werden anhand der
+erstellten Plakate erläutert und begründet.
+3. Zusammenfassung der Analyseergebnisse nach ISAF
+Die ursprüngliche Fassung der Lernaufgabe wurde mit dem Instrument zur sprachbildenden Analyse
+von Fachaufgaben (isaf) analysiert und hierauf aufbauend weiterentwickelt. Die Ergebnisse der
+Analyse im Überblick:
+Die Aufgabe steht am Anfang einer 10- bis 12-stündigen Unterrichtsreihe. Sie ist für die fünfte bzw.
+sechste Klassenstufe konzipiert und war Bestandteil eines Unterrichtsversuchs in insgesamt zehn
+Real- und Gesamtschul- sowie Gymnasialklassen.1 Zu erstellen sind Berechnungsmodelle für Verteilungsprobleme am Beispiel der Verteilung von Müllgebühren auf verschiedene Haushalte in einem
+Mehrfamilienhaus. Sie integriert alle prozessbezogenen Kompetenzen des Rahmenlehrplans:
+Probleme mathematisch lösen, mathematisch modellieren, mathematisch kommunizieren/argumentieren sowie (eingeschränkt) mathematische Darstellungen verwenden sowie mit symbolischen,
+formalen und technischen Elementen der Mathematik umgehen. Inhaltlich lässt sich diese Aufgabe
+den Kompetenzbereichen Zahlen und Operationen sowie Gleichungen und Funktionen zuordnen. Mit
+der Aufgabenbearbeitung sollen die dafür benötigten fachlichen und sprachlich-kommunikativen
+Kompetenzen ausgebaut und weiterentwickelt werden. Die Aufgabenkonzeption ermöglicht es
+jedem Schüler und jeder Schülerin nahezu unabhängig von ihren mathematischen Kompetenzen
+Lösungsansätze zu entwickeln. Somit ist hier auch ein großes Potenzial selbstwirksamer Erfahrungen
+aller Schülerinnen und Schülern angelegt. Die in der Überarbeitung erfolgte sprachliche Anreicherung
+in jeder der Bearbeitungssequenzen verstärkt ein Ineinandergreifen von fachlichem und sprachlichem Lernen.
+3.1 Zusammenfassung der fachlichen bzw. fachdidaktischen Analysen
+Fachlich ist diese Aufgabe im Bereich des Normativen Modellierens verortet. Hier gilt es, verschiedene Lösungsmöglichkeiten zu erkennen, abzuwägen und ggf. zuzulassen.
+Mit dem Thema „soziale Gerechtigkeit“ im Kontext von Normativen Modellierungen verbindet die
+Aufgabe den Einfluss außermathematischer Faktoren (hier „soziale Gerechtigkeit“) mit mathematischen Berechnungen. Zu erstellen sind Berechnungsmodelle für Verteilungsprobleme am Beispiel
+der Verteilung von Müllgebühren auf verschiedene Haushalte in einem Mehrfamilienhaus. Die mit
+der Aufgabenbearbeitung potenziell gegebenen und im besten Fall bildungswirksamen Erlebnisse
+umfassen neben der Erfahrung von nicht eindeutigen mathematischen Lösungen und Ergebnisvarianten die Beschreibung von Modellen mittels Termen sowie die Möglichkeit, mittels fachsprachlicher
+Ausdrucksmittel treffendere und präzisere mathematische Modellierungen zu realisieren und die
+Basis für argumentative Diskurse zu legen (vgl. Marxer/Prediger/Schnell 2010: 19).
+1 Siehe zum Verlauf sowie den Ergebnissen aus dem Unterrichtsversuch Marxer / Prediger / Schnell (2010). Für den
+schulischen Einsatz aufbereitet ist das Gesamtarrangement der Originalaufgabe verfügbar unter: Marxer / Prediger
+(2013).
+B ERECHNUNG DER M ÜLLKOSTEN
+3.2 Zusammenfassung der sprachlichen Analysen
+Die Ausführungen in diesem Abschnitt suggerieren eine mögliche streng getrennte Darstellung der
+sprachlichen Anforderungen und Handlungen von den fachlichen. Dies ist nicht der Fall, da alle
+sprachbildenden Elemente und Aufgabenteile immer aus den fachlichen Inhalten heraus generiert
+sind. Die Aufgabe integriert eine Vielzahl sprachlicher, (mathematisch) argumentativer und (mathematisch) kommunikativer Handlungen in diversen sozialen Situationen (Einzel-, Partner- und
+Gruppenarbeit sowie argumentativer Austausch und Präsentationen im Plenum, siehe nachfolgende
+Übersicht). Sie umfassen sowohl mündliche als auch schriftliche Anforderungen und Produkte.
+Die ursprüngliche Aufgabe enthielt keine zusätzlichen Materialien zur sprachlichen Unterstützung;
+hinzugefügt wurden Wortschatzelemente und diskursive Redemittel (siehe Abschnitt A, 2.1 bis 2.5) in
+jeweils disparater Funktion.
+Die Anreicherung mit Wortschatzelementen ist von der Idee getragen, die sprachlichen Möglichkeiten zu erweitern und so möglichst allen Schülerinnen und Schülern je nach Bedarf Hilfestellungen
+beim Konzeptualisieren von Modellierungsansätzen als Basis für einen argumentativen Austausch im
+Klassenzimmer zu geben. Teile des Wortschatzes liefern durch die Benennung in Frage kommender
+Einflussfaktoren auf eine gerechte Verteilung Denkanstöße. Sie könnten sich auf die Komplexität der
+zu erstellenden Normativen Modelle und den sich daran anschließenden argumentativen Austausch
+direkt auswirken. Selbst wenn die im Wortschatz benannten Faktoren nicht in die Modellierungen
+einfließen, sind sie als Diskussionsgegenstand präsent. Die potenziellen Lösungen ermöglichen
+sowohl eine Zuordnung zu gerechten oder ungerechten Verteilungen als auch alle Abstufungen von
+„mehr oder weniger gerecht“. Dazu benötigen die Schülerinnen und Schüler sprachliche Mittel, um
+Vergleiche zu realisieren. Sie sind ebenfalls Bestandteil des angebotenen Wortschatzes. Insbesondere die Steigerung von Adjektiven zur Versprachlichung von Vergleichen, sprachlich notwendige
+Mittel für Begründungen und Elemente des verbalen Wortschatzes bilden zentrale Bereiche. Der
+Austausch von Pro- und Kontraargumenten, Möglichkeiten des Nachfragens sowie der Ausdruck von
+Zweifel sind durch die diskursiven Redemittel unterfüttert.
+Die in den einzelnen Bearbeitungsschritten vorgesehenen sprachlich-kommunikativen Prozesse
+gehen von alltagssprachlichen Mitteln aus und sollen insbesondere die bildungssprachlichen Fähigkeiten der Schülerinnen und Schüler durch diese sprachunterstützenden Mittel und deren Einbettung
+in die geeigneten Modellierungskontexte und den Austausch darüber im Sinne von ScaffoldingPrinzipien erweitern.
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 77
+B ERECHNUNG DER M ÜLLKOSTEN
+8 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+Eine Zusammenfassung der benötigten sprachlichen und fachlichen Kompetenzen zur Bewältigung
+der einzelnen Teilaufgaben bietet folgende Übersicht:
+Teilaufgaben benötigte fachliche und soziale
+Kompetenzen
+benötigte sprachlich-kommunikative
+Kompetenzen
+I. Klärung des
+Arbeitsauftrags
+ Erkennen der
+Aufgabenkomplexität durch
+den Einfluss sozialer Faktoren
+auf die Forderung nach einer
+möglichst gerechten
+Kostenverteilung in
+Verbindung mit
+mathematischen Prozeduren
+ ein Gerechtigkeitskonzept
+ rezeptive Kompetenz: die
+Aufgabenstellung verstehen
+II. Lösungsmodellierung in
+Einzel- und
+Partnerarbeit
+ Division
+ hilfreich: Bruchrechnen,
+Prozentrechnung, Terme
+bilden
+ Wortschatz zur Bezeichnung
+potenziell relevanter
+Faktoren für eine gerechte
+Verteilung der Müllkosten
+III. Argumentativer
+Austausch über die
+Lösungsansätze in
+Kleingruppen und
+Erstellen eines
+Lernplakats
+ mathematisch
+Argumentieren
+ v. a. alltagssprachliche Mittel
+während des Austausches
+IV. Präsentation im
+Plenum
+ in Abhängigkeit von den
+unterschiedlichen
+Lösungsansätzen: Division,
+Bruchrechnen,
+Prozentrechnung, Terme
+bilden
+ zur inhaltlichen Darstellung
+heterogener Positionen:
+Empathie und
+mathematisches
+Argumentieren zur
+Darstellung des
+argumentativen Verlaufes
+ neben alltagssprachlichen
+auch bildungssprachliche
+diskursive Mittel
+B ERECHNUNG DER M ÜLLKOSTEN
+4. Erläuterung zu den Teilaufgaben
+Bei der sprachbildenden Überarbeitung der Aufgabe muss die Lehrkraft anhand des Kompetenzniveaus
+ihrer Schülerinnen und Schüler entscheiden, wo diese Unterstützung benötigen. Grundsätzlich ist zu
+empfehlen, sprachbildende Maßnahmen mit Blick auf die gesamte Schullaufbahn im Sinne eines
+Spiralcurriculums zu planen. Mit den hier gesetzten Schwerpunkten ist eine Auswahl unter möglichen
+Alternativen getroffen worden. Die unter A 2.1. bis 2.5. aufgeführten Wortschatzelemente und Redemittel stellen somit keine abgeschlossenen Listen obligatorischer sprachlicher Bausteine dar, sondern
+sind als Sprachangebote zu verstehen, die je nach Vorwissen und sprachlicher Vorarbeit in den Klassen
+erweitert, gekürzt oder auch selbst erstellt werden können. Die Redemittel zu den einzelnen Kategorien enthalten sowohl alltags- als auch bildungssprachliche Ausdrücke und Phrasen. Es empfiehlt sich,
+sie als Plakate oder auch Arbeitsblätter zu gestalten. Die Plakatgestaltung hätte den Vorteil permanenter Präsenz im Klassenzimmer über die beiden Unterrichtsstunden hinaus. Arbeitsblätter stünden
+den Schülerinnen und Schülern auch außerhalb des Klassenzimmers zur Verfügung.
+4.1 Erläuterungen zur Teilaufgabe I
+Neben der Aufgabenstellung ist eine Vorstellung aller sprachlichen Mittel an dieser Stelle vorgesehen. Die
+zeitliche Dimension sowie Art und Umfang der Vorstellung stehen u.a. in Abhängigkeit vom fachlichen
+und sprachlichen Leistungsniveau der Klasse. Unbedingt erforderlich ist eine Verständnissicherung aller
+Begriffe und Phrasen. Empfehlenswert ist weiterhin eine Begründung und damit einhergehende
+Motivation zur Verwendung der angebotenen sprachlichen Mittel (siehe dazu auch Abschnitt 6).
+Für den fachlichen Einstieg könnten als Vorentlastung aus den Alltagserfahrungen der Schülerinnen und
+Schüler gewonnene Erfahrungen mit gerechten bzw. ungerechten Handlungen und Beurteilungen
+anhand von Beispielen diskutiert werden (mögliche Einstiegsfrage: „Habt ihr euch schon einmal
+ungerecht behandelt gefühlt?“; mögliche Stimuli: „ungerechte Bestrafungen“, ungerechte Schulnoten).
+4.2 Erläuterungen zur Teilaufgabe II
+Zu bewältigen ist diese Aufgabe auch durch das gegenseitige Zeigen der notierten Lösungsansätze.
+Nicht unbedingt zu erwarten ist an dieser Stelle, dass die direkten Banknachbarn, die sich in der
+Regel gut kennen, insbesondere auf die bildungssprachlichen Mittel unter A 2.3–2.5 rekurrieren, sie
+würden in diesem Kontext möglicherweise gekünstelt wirken. Anders ist es mit dem unter A 2.1
+angebotenen Wortschatz sowie den „Nachfragen“ (2.2). Die als Wortschatz aufgelisteten sprachlichen Mittel können die mathematische Modellierung und damit die Lösungsfindung direkt beeinflussen, liefern Hinweise auf mögliche Einflussgrößen und erhöhen potenziell die Komplexität der
+Anforderungen. Damit können sie leistungsstärkere Schülerinnen und Schüler unterstützen, ohne
+leistungsschwächere Schülerinnen und Schüler zu benachteiligen.
+4.3 Erläuterung zur Teilaufgabe III
+Je nach sozialem Gefüge ist eine schnelle Einigung auf das Ergebnis besonders leistungsstarker oder
+dominanter Schülerinnen oder Schüler nicht ausgeschlossen. In diesem Fall könnte die Lehrperson
+eingreifen, um multiple Zugänge zur fachlichen Komplexität zu ermöglichen sowie die kommunikativargumentative Auseinandersetzung anzuregen. Die aufgelisteten diskursiven Mittel fungieren hier in
+einer Doppelfunktion. Sie sollen den mündlichen Gruppenaustausch unterstützen und die in Teilaufgabe IV erwarteten Begründungen für die Einigung auf eine gemeinsame Lösung vorbereiten.
+4.4 Erläuterungen zur Teilaufgabe IV
+Diese Teilaufgabe ist der zentrale Ort der Ergebnispräsentation. Sie umfasst die Darstellung der
+Gruppenpositionen zur mathematischen Modellierung einer gerechten Müllkostenverteilung sowie
+deren Chronologie im argumentativ-begründenden Austausch hin zu einem gemeinsamen Ergebnis.
+Zu erwarten sind mehrere disparate Positionen, die im idealen Fall zu einem regen argumentativen
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 9
+B ERECHNUNG DER M ÜLLKOSTEN
+10 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+Austausch unter Verwendung der diskursiven alltags- und bildungssprachlichen Redemittel führen
+(weitere Hinweise zur unterrichtlichen Umsetzung in Abschnitt 6).
+5. Differenzierungsmöglichkeiten und Alternativen
+Modifikationen dieser Aufgabe sind in zwei Richtungen möglich: In einer puristischen Version
+enthielte die Aufgabenstellung lediglich den folgenden Satz und eine alternative Formulierung der
+Lernsituation:
+Quelle: Praxis der Mathematik in der Schule 52 (36) (2010), (hier in der Online-Version, verfügbar unter http://www.mathematik.
+uni-dortmund.de/~prediger/veroeff/10-Marxer_Prediger_Schnell_PM-H36-Webversion.pdf (letzter Aufruf: 09.09.2016, S. 1).
+Hier verringert sich der verbale Input der Aufgabenstellung ebenfalls, die Komplexität der Aufgabe
+jedoch nicht. Die Fokussierung auf die Wohnungsanzahl und -größe sowie der Hinweis auf die Anzahl
+der Bewohner mit der Unterscheidung zwischen Erwachsenen und Kindern entfallen zwar verbal, sie
+lassen sich jedoch neben weiteren sozialen u. a. Faktoren aus der Abbildung ableiten.
+Je nach Bedarf und Leistungsniveau können weitere verbale Stimuli angeboten werden, welche die
+Komplexität des Faktors „Gerechtigkeit“ erhöhen. Diese inhaltlichen Konkretisierungen unterstützen
+gleichzeitig die Aufgabenbearbeitung.
+Lernsituation:
+In einem Mehrfamilienhaus fallen Müllgebühren von insgesamt 750 € an.
+Arbeitsauftrag:
+Schreibe auf, wie die Müllgebühren möglichst gerecht verteilt werden können.
+B ERECHNUNG DER M ÜLLKOSTEN
+Lest euch die Meinungen der Mieter im Haus durch und lasst sie in eure Überlegungen
+einfließen.
+ Im Haus leben insgesamt 11 Erwachsene und 4 Kinder.
+ Sollen die Kosten für die 4 Kinder und die 11 Erwachsenen unterschiedlich
+gerechnet werden?
+ Es sollte auch die die Wohnungsgröße berücksichtigt werden.
+ Frau Schneider und Herr Pflüger wohnen nur am Wochenende hier.
+Zahlen sie weniger?
+6. Hinweise zur unterrichtlichen Gestaltung
+In der vorliegenden Unterrichtskonzeption sollen die Schülerinnen und Schüler weitgehend selbstorganisiert in der Gruppe lernen, die Lehrkraft steht vor allem als Berater oder Beraterin zur Seite. Die
+Arbeit in Partnerarbeit und Kleingruppen soll dabei neben mathematischen und sprachlichen auch
+soziale Kompetenzen bzw. Teamfähigkeit fördern. Hinsichtlich der mathematischen und sprachlichen
+Fähigkeiten möglichst gemischte Gruppen versprechen einen entsprechend anregenden und
+gewinnbringenden Austausch der größtmöglichen Anzahl von Schülerinnen und Schülern.
+Die Partner- und Kleingruppenarbeit ist auch mit der Hoffnung verbunden, geringere Hemmschwellen
+für Schülerinnen und Schüler zu implizieren, Unklarheiten zu benennen, nachzufragen und sich
+gegenseitig zu unterstützen. Kooperative Unterrichtsformen ermöglichen einen höheren Redeanteil der
+Schülerinnen und Schüler sowie den Austausch über verschiedene Lösungsstrategien. Gleichzeitig
+werden leistungsschwächere Schülerinnen und Schüler bei der Bearbeitung unterstützt.
+Bei fehlendem Problembewusstsein und fehlenden argumentativen Alternativen zu Vorschlägen, die
+eine Gleichverteilung der Kosten auf die 15 im Haus lebenden Personen favorisieren, ist ein Eingreifen
+der Lehrperson empfehlenswert. Sie kann hier ergänzenden Input beispielsweise unter Nutzung der
+Aufgabenvarianten anbieten, die im vorherigen Abschnitt 5 dargestellt wurden. Möglicherweise war
+eine Einigung auf eine gemeinsame Lösung in Teilaufgabe III nicht möglich. Auch dieser Fall ist voll
+akzeptabel, die Präsentation (Teilaufgabe IV) wäre besonders interessant und könnte sowohl die
+Gründe dafür darstellen als auch die unterschiedlichen Lösungsvorschläge. Vor Umsetzung dieser
+Teilaufgabe ist es sinnvoll, wenn die Lehrkraft noch einmal explizit zur Verwendung insbesondere der
+bildungssprachlichen diskursiven Mittel auffordert.
+Die sprachlichen Scaffolds sind hilfreich und erwünscht. Allerdings zeigen die Erfahrungen aus den
+Unterrichtserprobungen, dass gerade mathematisch und sprachlich weniger starke Schülerinnen und
+Schüler häufig eine stärkere Einführung in die sprachbildenden Materialien und Redemittel benötigen,
+um sie gewinnbringend nutzen zu können. Wenn beispielsweise die diskursiven Mittel in dieser Stunde
+erstmalig eingeführt werden, ist eine starke Reduktion empfehlenswert sowie eine Beschränkung auf
+zustimmende und ablehnende diskursive Mittel. Ihre thematische Kategorisierung (in „Zustimmung“,
+„Ablehnung“ etc., siehe A 2.2 bis 2.5) ist nicht arbiträr, jedoch sind hier auch andere Kategorisierungen
+denkbar wie eine Extraktion von „Empfehlungen“ und dem Ausdruck von „Verwunderung/Erstaunen“
+als weiteren Kategorien des Komplexes „Zweifel/Einschränkungen“ unter A 2.5.
+Mit Ausnahme des aufgabenspezifischen Wortschatzes wäre auch eine permanente Präsenz der
+diskursiven Redemittel im Klassenzimmer denkbar. Sie sollten dann von den Schülerinnen und Schülern
+selbst im Rahmen dieser oder auch anderer Mathematikaufgaben mit argumentativem Potenzial über
+einen größeren Zeitraum erarbeitet und sukzessive erweitert werden. Auch ihre Nutzung in anderen
+Fächern ist trotz fächerspezifischer Argumentationsformen vorstellbar, da die hier vorgestellten
+diskursiven Mittel auf einer übergeordneten sprachlichen Ebene angesiedelt sind.
+In der fachdidaktischen Lehre bieten sich unterschiedliche Varianten eines Einsatzes dieser Aufgabe an.
+Beispielsweise könnte die ursprüngliche Version – vorerst unter Auslassung aller sprachbildenden
+Elemente (A 2.1 bis 2.5) – durch die Studierenden in Kleingruppen beispielhaft gelöst werden. Als
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 11
+B ERECHNUNG DER M ÜLLKOSTEN
+12 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+Input könnten hier lediglich der Arbeitsauftrag sowie die Abbildung dienen. Im Anschluss wäre eine
+Analyse und Diskussion des sprachbildenden Potenzials denkbar. Je nach Analyseergebnis böten die
+erstellten diskursiven Mittel, der Wortschatz sowie Faktoren, die ihren sinnvollen Einsatz plausibel
+machen als exemplarische Musterlösungen u. U. einen Nährboden konstruktiver Auseinandersetzungen.
+C. Literatur
+Caspari, Daniela / Andreas, Torsten / Schallenberg, Julia / Shure, Victoria / Sieberkrob, Matthias
+(2017). Instrument zur sprachbildenden Analyse von Aufgaben im Fach (isaf). In: Caspari,
+Daniela (Hg.). Sprachbildung in den Fächern: Aufgabe(n) für die Fachdidaktik. Materialien
+für die Lehrkräftebildung. Berlin.
+Marxer, Michael / Prediger, Susanne / Schnell, Susanne (2010). Wie verteilen wir die Müllgebühren?
+Bildungswirksame Erfahrungen beim Entwickeln und Diskutieren normativer Modellierungen.
+Praxis der Mathematik in der Schule 52(36), S. 19-25. Online-Version verfügbar unter
+http://www.mathematik.uni-dortmund.de/~prediger/veroeff/10Marxer_Prediger_Schnell_PM-H36-Webversion.pdf, letzter Aufruf: 09.09.2016, S. 2.
+Marxer, Michael / Prediger, Susanne (2013). Wer soll wie viel bezahlen? – Rechnungen darstellen
+und diskutieren. In Barzel, Bärbel / Hußmann, Stephan / Leuders, Timo / Prediger, Susanne
+(Hrsg.) Mathewerkstatt. Klasse 6. Berlin: Cornelsen, 101-122.
+B ERECHNUNG DER M ÜLLKOSTEN
+D. Aufgabenanalyse
+Ergebnisse der Analyse der ursprünglichen Aufgabe mit dem Instrument zur sprachbildenden
+Analyse von Aufgaben im Fach (isaf) 2
+Zu analysierende Aufgabe:
+ursprüngliche
+Aufgabe
+Marxer, Michael / Prediger, Susanne / Schnell, Susanne (2010): Wie verteilen
+wir die Müllgebühren? Bildungswirksame Erfahrungen beim Entwickeln und
+Diskutieren normativer Modellierungen. In: Praxis der Mathematik in der
+Schule 52 (36): 19-25.
+Bearbeitung Torsten Andreas, Nina Bohlmann
+Klassenstufe 5/6 Umfang U-Std. à 45 min. ca.: 2 U-Std.
+zentrale fachliche
+Zielsetzung
+ Uneindeutigkeit
+normativer
+Modellierungen
+ mathematisch
+argumentieren
+ ggf. Gleichwertigkeit von
+Termen wahrnehmen
+Endprodukt  alternative Lösungsansätze
+normativer
+Modellierungen
+ Lernplakate
+sprachbildende
+Schwerpunktsetzung(en)
+ mathematisches Argumentieren
+ Verwenden diskursiver Redemittel
+ (Weiter-)Entwicklung bildungssprachlicher Ausdrucksfähigkeit
+benötigte Vorkenntnisse
+fachlich  obligatorisch: Division
+ hilfreich: Bruchrechnen, Prozentrechnung, Terme bilden
+2 isaf = Instrument zur sprachbildenden Analyse von Aufgaben im Fach, entwickelt von Daniela
+Caspari, Torsten Andreas, Julia Schallenberg, Victoria Shure, Matthias Sieberkrob (2017).
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 13
+B ERECHNUNG DER M ÜLLKOSTEN
+14 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+A Fachdidaktische Analyse der Aufgabe
+Grundlage der sprachbildenden Analyse ist die fachdidaktische Analyse der Aufgabe:
+Was sollen die Schülerinnen und Schüler (SuS) mit Hilfe der Aufgabe lernen?
+Teilaufgabe 1 Teilaufgabe 2 Teilaufgabe 3 Teilaufgabe 4
+Schritt 1:
+Aus welchen
+Teilaufgaben setzt
+sich die Aufgabe
+zusammen?
+Klärung des
+Arbeitsauftrags
+Lösungsmodellierung in
+Einzel- und
+Partnerarbeit
+argumentativer
+Austausch über die
+Lösungsansätze in
+Kleingruppen und
+Erstellen eines
+Lernplakats
+Präsentation im
+Plenum
+Schritt 2:
+Welche Funktion
+kommt der
+jeweiligen
+Teilaufgabe zu?
+Informieren
+Verständnissicherung
+(inhaltlich und
+sprachlich),
+Vorstellung der
+sprachlichen
+Mittel
+Erarbeiten eines
+Lösungsansatzes
+Verschriftlichen
+des Lösungsansatzes,
+Austausch mit dem
+Partner
+Vorstellen der
+Lösungsvorschläge
+Begründen,
+Argumentieren
+Diskutieren
+Auswählen,
+Darstellen der
+Ergebnisse auf
+einem Plakat
+Vorstellen des
+argumentativen
+Diskurses der
+Gruppenarbeit,
+Präsentation des
+ausgewählten
+Lösungsweges
+Schritt 3:
+Welche
+Kompetenzen
+sollen mit dieser
+Aufgabe erworben
+bzw. vertieft
+werden?
+Die SuS erfassen
+die Aufgabenstellung und
+erkennen den
+Zusammenhang zu
+den angebotenen
+sprachlichen
+Mitteln.
+Die SuS erkennen
+verschiedene
+Lösungsmöglichkeiten und wägen
+Argumente ab. Sie
+verbinden den
+Einfluss außermathematischer
+Faktoren mit
+mathematischen
+Berechnungen
+(normatives
+Modellieren).
+Auf dieser Basis
+erstellen und verschriftlichen sie
+einen Lösungsvorschlag.
+Weiterhin erfahren die SuS,
+dass Aufgaben
+nicht immer eine
+mathematisch eindeutige und richtige Lösung haben,
+sondern dass
+unterschiedliche
+Ergebnisvarianten
+bestehen können.
+Die SuS stellen sich
+gegenseitig ihre
+Lösungsvorschläge
+vor, begründen
+argumentativ ihre
+Berechnungsgrund
+lage für eine
+möglichst gerechte
+Verteilung und
+einigen sich auf
+eine Lösung, die
+als die gerechteste
+angesehen wird;
+die Lösung sowie
+ggf. alternative
+Ansätze und
+Argumente
+werden auf einem
+Lernplakat
+festgehalten.
+prozessbezogene
+mathematische
+Kompetenzen:
+mathematisch
+argumentieren
+[K1],
+mathematisch
+kommunizieren
+[K6], ggf.
+Der argumentative
+Diskurs sowie die
+Einigung auf eine
+gerechte Lösung
+innerhalb der
+einzelnen Gruppen
+werden anhand
+der erstellten
+Plakate erläutert
+und begründet.
+prozessbezogene
+mathematische
+Kompetenzen:
+mathematisch
+argumentieren
+[K1],
+mathematisch
+kommunizieren
+[K6]
+inhaltsbezogene
+mathematische
+Kompetenzen:
+Zahlen und
+Operationen [L1];
+Gleichungen und
+Funktionen [L4]
+B ERECHNUNG DER M ÜLLKOSTEN
+Teilaufgabe 1 Teilaufgabe 2 Teilaufgabe 3 Teilaufgabe 4
+prozessbezogene
+mathematische
+Kompetenzen:
+mathematisch
+modellieren [K3],
+Probleme
+mathematisch
+lösen [K2]
+inhaltsbezogene
+mathematische
+Kompetenzen:
+Zahlen und
+Operationen [L1];
+Gleichungen und
+Funktionen [L4]
+mathematische
+Darstellungen
+verwenden [K4]
+inhaltsbezogene
+mathematische
+Kompetenzen:
+Zahlen und
+Operationen [L1];
+Gleichungen und
+Funktionen [L4]
+Schritt 4:
+Was müssen die
+SuS im Einzelnen
+leisten, um die
+Aufgabe zu
+bewältigen?
+den Arbeitsauftrag
+verstehen
+die Komplexität
+der Aufgabe
+erkennen durch
+den Einfluss
+sozialer Faktoren
+auf die Forderung
+nach einer
+möglichst
+gerechten
+Kostenverteilung
+in Verbindung mit
+mathematischen
+Prozeduren
+Gerechtigkeitskonzept verstehen
+Beherrschen
+schriftlicher
+Rechenverfahren,
+je nach Kompetenz
+zusätzlich
+Bruchrechnen,
+Prozentrechnung,
+Terme bilden
+mathematisches
+Argumentieren
+und
+Kommunizieren
+Darstellen des
+eigenen
+Lösungsansatzes
+mathematisch
+begründen und
+argumentieren
+Nachvollziehen
+anderer
+Lösungsansätze
+diskutieren
+in Abhängigkeit
+von den
+vorgestellten
+Lösungsansätzen:
+Division,
+Bruchrechnen,
+Prozentrechnung,
+Terme bilden
+Darstellen und
+Nachzeichnen der
+mathematischen
+Diskussion
+Präsentieren des
+gewählten
+Lösungsansatzes
+Nachvollziehen
+anderer
+Lösungsansätze
+in Abhängigkeit
+von den
+vorgestellten
+Lösungsansätzen:
+Division,
+Bruchrechnen,
+Prozentrechnung,
+Terme bilden
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 15
+B ERECHNUNG DER M ÜLLKOSTEN
+16 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+B Rezeption: Sprachliche Analyse der in der Aufgabe verwandten schriftlichen Texte
+Abbildung 1
+Schritt 1:
+Welches Ziel ist mit dem Lesen des Textes
+verbunden?
+Wofür sollen die Informationen aus dem Text im
+weiteren Verlauf der Aufgabe verwendet werden?
+Der Text enthält sowohl die implizit formulierten
+Arbeitsaufträge als auch visuelle und sprachliche
+Hinweise, die in die Modellierung einfließen
+können und dem Bearbeiten und Lösen der
+Aufgabe dienen.
+Schritt 2:
+Um welche Textsorte handelt es sich?
+Welche (typischen) Textsortenmerkmale weist
+dieser Text auf?
+Es liegt eine illustrierte Aufgabenstellung mit
+grafischen Elementen und Sprechblasen vor.
+Die Abbildung enthält eine Überschrift, grafische
+Anteile und Textanteile. Als Text sind weiterhin ein
+als Aufgabenstellung zu interpretierender Satz
+sowie Sprechblasen enthalten.
+Die Sprechblasen sind in direkter Rede bzw.
+umgangssprachlich formuliert.
+Schritt 3:
+bei Text-Bild-Kombinationen:
+Welche Funktionen haben die Abbildungen, welche
+der Text?
+Der als Frage formulierte Arbeitsauftrag ist auch
+ohne Einbezug der Abbildung sowie der
+Sprechblasen auf Kosten der Komplexität
+umsetzbar.
+Die Abbildung sowie die Sprechblasen liefern
+Hinweise auf weitere potenziell zu integrierende
+Faktoren, welche unterschiedliche und komplexere
+Modellierungen inspirieren sollen.
+Schritt 4:
+Welcher Wortschatz ist für das Textverständnis und
+für die Gesamtaufgabe
+zentral?
+Welche Wörter und Formulierungen können das
+von der Aufgabe intendierte Textverstehen
+besonders beeinträchtigen?
+(Achtung: Nicht alle „schwierigen“ Wörter sind für
+das Textverstehen relevant.)
+Haushalte, Müllgebühr, Müllentsorgung, Kosten;
+gerecht zugehen, einigen
+Schritt 5:
+Welche grammatischen Strukturen sind für das
+Textverständnis und für die Gesamtaufgabe
+zentral?
+Welche grammatischen Strukturen können das von
+der Aufgabe intendierte Textverstehen
+beeinträchtigen?
+W-Fragesatz, Passivkonstruktionen
+restriktive Formulierungen („Aber da muss es
+gerecht zugehen!“)
+Schritt 6:
+Welche spezifischen Lesestile wären für die
+Bearbeitung der Aufgabe zielführend?
+Welche Strategien / Methoden wären für die
+Bearbeitung der Aufgabe hilfreich?
+Kombination aus selektivem und detailliertem
+Lesen
+Extraktion numerischer Größen, die für die
+Modellierung relevant sind; diskursive
+Auseinandersetzung mit „gerecht“
+B ERECHNUNG DER M ÜLLKOSTEN
+C Produktion: Sprachliche Analyse der von den Schülerinnen und Schülern
+geforderten produktiven Aktivitäten
+Schritt 1:
+Welche produktive Aktivität / welches sprachliche
+Produkt wird gefordert?
+mündlich, schriftlich, (multi-) medial
+Um welche Textsorte handelt es sich?
+Welcher Stil/ welches Register wird verlangt?
+Welches sind die (realen oder fiktiven) Adressaten
+des Textes?
+mathematische Lösung
+mathematische Modellierung
+Bildungssprache, Fachsprache
+Mitbewohner
+Schritt 2:
+Welches sind die für die Erstellung des Produkts
+notwendigen Sprachhandlungen?
+beschreiben, erklären, begründen, nachvollziehen
+Schritt 3:
+Welche Spezifika der Textsorte müssen die SuS
+kennen?
+mathematische Darstellungsformen
+Schritt 4:
+Welcher Wortschatz ist notwendig? diskursive Redemittel, Wortschatz (siehe S. 3)
+Schritt 5:
+Welche grammatischen Strukturen sind notwendig
+bzw. typisch für das Produkt?
+relationale Phrasen, Adjektivkomparation
+Schritt 6:
+Welche Strategien/Methoden wären hilfreich, um
+das Produkt zu erstellen?
+Bereitstellung von Redemitteln und Wortschatz,
+Hinweise zum Gebrauch dieser Mittel
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 17
+B ERECHNUNG DER M ÜLLKOSTEN
+18 Sprachen – Bilden – Chancen | Andreas / Bohlmann
+D Analyse der Aufgabenstellung
+Schritt 1:
+Ist die Aufgabe verständlich?
+Ist die Aufgabe klar und eindeutig
+formuliert?
+Ist die Aufgabe fachlich angemessen
+und sprachlich dem Kenntnisstand der
+SuS entsprechend formuliert?
+Ggf.: Sind die einzelnen Schritte klar
+erkennbar? (Gliederung)
+Ist die Aufgabe in sich schlüssig?
+Es fehlt eine explizite Formulierung der Aufgabenstellung, die
+Mehrdeutigkeit ist vermutlich von den Autoren intendiert.
+Ja: bildungssprachliches Register, fachlich offen und
+differenzierend formuliert, sprachlich und fachlich anspruchsvoll
+Nein, da keine Untergliederung erfolgt
+Ja, mit der Besonderheit verschiedener Bearbeitungs- und
+Lösungsvarianten
+Schritt 2:
+Ist die Aufgabe transparent?
+Werden die fachlichen und
+sprachlichen Ziele deutlich?
+Werden klare Erwartungen an das
+Endprodukt formuliert?
+Wenn notwendig: Gibt es Raum für
+eine sprachliche Reformulierung der
+Aufgabe durch die SuS?
+Die offene Gestaltung der Aufgabe ermöglicht sowohl fachliche
+als auch sprachliche Spielräume und birgt die Gefahr von
+Irritationen bei SuS, die mit vergleichbaren Aufgabenformaten
+nicht vertraut sind.
+Schritt 3:
+Gibt es in der Aufgabenstellung
+bereits Hilfestellungen zur
+Bearbeitung?
+Werden Hinweise zum methodischen
+Vorgehen gegeben?
+Nein, da die Aufgabe keinen eindeutigen bzw. richtigen
+Bearbeitungsweg vorsieht.
+E Sprachbildende Überarbeitung
+Unterstützungsmaßnahmen Unterstützungsmaßnahmen
+Schritt 1 (vgl. Teil B):
+Enthält die Aufgabe bereits
+Maßnahmen, die die
+Textrezeption unterstützen?
+Wenn ja: Sind diese für das
+fachliche Lernen funktional und
+für die SuS ausreichend?
+Wenn nein: Welche
+Unterstützungsmaßnahmen
+können sinnvollerweise ergänzt
+werden?
+Je nach Aufgabenziel und
+Vorkenntnissen der SuS könnte
+das Maßnahmen zu folgenden
+Aspekten beinhalten:
+Sprechblasen
+nein
+Ergänzung der Abbildung durch
+eine explizite Formulierung der
+Aufgabenstellung
+Optimierung des Textdesigns,
+Hervorhebung wichtiger
+Begriffe, Glossar
+Sammlung des Vorwissens in der
+Kleingruppe oder im Plenum, z.B.
+Brainstorming
+Abbildung
+nein
+Benennung der abgebildeten
+Personen, ggf. Ergänzung
+relevanter sozialer Merkmale
+B ERECHNUNG DER M ÜLLKOSTEN
+Unterstützungsmaßnahmen Unterstützungsmaßnahmen
+Wie könnte das inhaltliche
+und/oder sprachliche Vorwissen
+aktiviert werden?
+Wie könnte der Text entlastet
+werden?
+Wie könnte der Leseprozess
+angeleitet werden?
+Anleitung zur Gestaltung des
+Leseprozesses inkl.
+Lesestrategien
+Thematisierung der sozialen
+Merkmale und wohnlichen
+Gegebenheiten
+Schritt 2 (vgl. Teil C):
+Enthält die Aufgabe bereits
+Maßnahmen, die die
+Textproduktion (mdl. und
+schriftl.) unterstützen?
+Wenn ja: Sind diese für das
+fachliche Lernen funktional und
+für die SuS ausreichend?
+Wenn nein: Welche
+Unterstützungsmaßnahmen
+können sinnvollerweise ergänzt
+werden?
+Je nach Aufgabenziel und
+Vorkenntnissen der SuS könnte
+das Maßnahmen zu folgenden
+Aspekten beinhalten:
+Wie könnte die Planung und
+Organisation des angestrebten
+Produkts unterstützt werden?
+Wie könnte die Umsetzung des
+angestrebten Produkts
+unterstützt werden?
+Wie könnte der
+Überarbeitungsprozess des
+Produkts angeleitet werden?
+Welche Korrekturhilfen könnten
+zielführend sein?
+Der in den Sprechblasen abgebildete Wortschatz kann die mündliche
+bzw. schriftliche Produktion unterstützen.
+Wortschatzanregungen
+Angebot von Redemitteln
+Ich-Du-Wir-Methode
+durch kooperatives Setting
+Schritt 3 (vgl. Teil D):
+Überprüfen Sie nun noch,
+ob die Aufgabenstellung
+funktional und verständlich ist
+und verändern Sie diese ggf.
+Erläuterung relevanter bzw.
+möglicherweise schwieriger
+Begriffe
+Sprachen – Bilden – Chancen | Andreas / Bohlmann 19
